@@ -104,6 +104,7 @@ class DataTable {
           minValue = min(minValue, currValue);
           maxValue = max(maxValue, currValue);
         }
+        println("Column: " + columsNames[col] + " [" + minValue + ", " + maxValue + "]");
 
         // Create row with normalised values
         for (int row = 0; row < getNumRows(); row++) {
@@ -121,6 +122,8 @@ class DataTable {
           }
         }
         Collections.sort(uniqueValues);
+        println("Column: " + columsNames[col] + " [" + uniqueValues.size() + " unique strings]");
+
 
         // Create row with normalised values (normalised indexes)
         for (int row = 0; row < getNumRows(); row++) {
