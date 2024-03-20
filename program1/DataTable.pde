@@ -12,7 +12,7 @@ class DataTable {
   ArrayList<Object[]> dataRows = new ArrayList<Object[]>(); // rows with original values
   ArrayList<float[]> dataRowsNormalised = new ArrayList<float[]>(); // rows with normalised values
 
-  DataTable(String pathToCSVFile, int[] arrayIndexesColsToLoad) {
+  DataTable(String pathInputCSVFile, int[] arrayIndexesColsToLoad) {
 
     // Create list with the indexes of the columns to load
     ArrayList<Integer> indexesColsToLoad = new ArrayList<>();
@@ -24,7 +24,7 @@ class DataTable {
 
     // Attempt to read input CSV file
     try {
-      BufferedReader br = new BufferedReader(new FileReader(pathToCSVFile));
+      BufferedReader br = new BufferedReader(new FileReader(pathInputCSVFile));
 
       // Read line by line
       String line;
@@ -160,5 +160,19 @@ class DataTable {
    */
   int getNumRows() {
     return dataRows.size();
+  }
+
+  void saveToCSV(String pathOutputCSVFile) {
+    Table table = new Table();
+    for (int col = 0; col < getNumColumns(); col++) {
+      table.addColumn(columsNames[col]);
+    }
+    for (int row = 0; row < getNumRows(); row++) {
+      TableRow newRow = table.addRow();
+      for (int col = 0; col < getNumColumns(); col++) {
+        newRow.setFloat(columsNames[col], getValueNorm(row, col));
+      }
+    }
+    saveTable(table, pathOutputCSVFile);
   }
 }

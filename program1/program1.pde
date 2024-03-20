@@ -9,9 +9,9 @@ void setup() {
   frameRate(60);
   surface.setResizable(true);
   
-  dt = new DataTable(dataPath("artists_20.csv"), new int[]{2});
-  println(dt.getValue(3, 0));
-  println(dt.getValueNorm(3, 0));
+  String pathInputCSV = dataPath("artists_20.csv");
+  dt = new DataTable(pathInputCSV, new int[]{2});
+  dt.saveToCSV(pathInputCSV.replace(".csv", "_normalised.csv"));
 }
 
 void draw() {
