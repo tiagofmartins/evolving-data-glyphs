@@ -74,6 +74,7 @@ class GlyphModel {
   void draw(PGraphics pg, float x, float y, float dim) {
     pg.push();
     pg.translate(x, y);
+    pg.strokeWeight(1);
 
     // Fundo
     pg.noStroke();

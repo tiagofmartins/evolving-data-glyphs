@@ -141,6 +141,12 @@ class DataTable {
    * Returns original value as string.
    */
   String getValue(int row, int col) {
+    if (colContainsNumbers[col]) {
+      float number = (Float) dataRows.get(row)[col];
+      if (number == (int) number) {
+        return ((int) number) + "";
+      }
+    }
     return dataRows.get(row)[col].toString();
   }
 

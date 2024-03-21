@@ -55,6 +55,7 @@ class Individual {
         break;
       }
     }
+    fitness = 0;
   }
 
   /**
@@ -180,5 +181,22 @@ class Individual {
     json.setJSONArray("genes", jsonGenes);
     json.setFloat("fitness", fitness);
     return json;
+  }
+
+  /**
+   * Returns array with strings describing the relations.
+   */
+  ArrayList<String> getRelationsInfo(Integer exampleRowIndex) {
+    ArrayList<String> relations = new ArrayList<String>();
+    for (int i = 0; i < genes.length; i++) {
+      if (genes[i] != null) {
+        String relationText = glyph.attrsNames[i] + "  ←  " + data.columsNames[genes[i]];
+        if (exampleRowIndex != null) {
+          relationText += " [" + data.getValue(exampleRowIndex, genes[i]) + "]";
+        }
+        relations.add(relationText);
+      }
+    }
+    return relations;
   }
 }

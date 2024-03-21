@@ -1,31 +1,23 @@
 Name;Nationality;Gender;Birth;Death;Age;Total Works;Total Departments;Architecture & Design;Fluxus Collection;Drawings & Prints;Painting & Sculpture;Media and Performance;Photography;Film;Architecture & Design - Image Archive;Common Department;Start Work Date;End Work Date;Total Years
 Bill Arnold;American;male;1941;0;83;26;1;0;0;0;0;0;26;0;0;Photography;1970;1978;4
-Jean (Hans) Arp;French;male;1886;1966;80;246;3;4;0;221;21;0;0;0;0;Drawings & Prints;1909;1969;38
 Richard Artschwager;American;male;1923;2013;90;59;3;0;0;41;16;0;2;0;0;Drawings & Prints;1962;2003;30
 Ruth Asawa;American;female;1926;2013;87;56;1;0;0;56;0;0;0;0;0;Drawings & Prints;1948;1965;2
 Erik Gunnar Asplund;Swedish;male;1885;1940;55;35;1;35;0;0;0;0;0;0;0;Architecture & Design;1917;1937;9
-Yutaka Matsuzawa;Japanese;male;1922;2006;84;164;2;0;0;163;0;0;1;0;0;Drawings & Prints;1958;1975;15
 Geneviève Asse;French;female;1923;0;101;50;1;0;0;50;0;0;0;0;0;Drawings & Prints;1969;1989;4
 Alvar Aalto;Finnish;male;1898;1976;78;42;1;42;0;0;0;0;0;0;0;Architecture & Design;1927;1970;19
 Berenice Abbott;American;female;1898;1991;93;82;1;0;0;0;0;0;82;0;0;Photography;1926;1958;20
 Raimund Abraham;American;male;1933;2010;77;20;1;20;0;0;0;0;0;0;0;Architecture & Design;1964;1993;10
 Rodolfo Abularach;Guatemalan;male;1933;2020;87;42;1;0;0;42;0;0;0;0;0;Drawings & Prints;1958;1969;7
 Vito Acconci;American;male;1940;2017;77;85;4;0;0;39;2;19;25;0;0;Drawings & Prints;1969;1994;16
-Ansel Adams;American;male;1902;1984;82;288;1;0;0;0;0;0;288;0;0;Photography;1920;1976;41
 Clinton Adams;American;male;1918;2002;84;62;1;0;0;62;0;0;0;0;0;Drawings & Prints;1960;1969;8
 Robert Adams;American;male;1937;0;87;73;1;0;0;0;0;0;73;0;0;Photography;1965;1990;16
 Otl Aicher (also known as Otto Aicher);German;male;1922;1991;69;36;1;36;0;0;0;0;0;0;0;Architecture & Design;1949;1972;7
-Anni Albers;American;female;1899;1994;95;200;2;174;0;26;0;0;0;0;0;Architecture & Design;1923;1983;32
-Josef Albers;American;male;1888;1976;88;296;4;9;0;268;7;0;12;0;0;Drawings & Prints;1916;1979;35
-Album-miscellaneous;;;0;0;2024;381;2;376;0;5;0;0;0;0;0;Architecture & Design;1933;1943;4
-Pierre Alechinsky;Belgian;male;1927;0;97;450;1;0;0;450;0;0;0;0;0;Drawings & Prints;1946;1989;31
 Harold Altman;American;male;1924;2003;79;45;1;0;0;45;0;0;0;0;0;Drawings & Prints;1955;1963;6
 John Altoon;American;male;1925;1969;44;26;1;0;0;26;0;0;0;0;0;Drawings & Prints;1965;1968;2
 Manuel Álvarez Bravo;Mexican;male;1902;2002;100;60;1;0;0;0;0;0;60;0;0;Photography;1929;1977;25
 Emilio Ambasz;Argentine;male;1943;0;81;24;1;24;0;0;0;0;0;0;0;Architecture & Design;1967;1992;9
 Paul L. Anderson;American;male;1880;1956;76;24;1;0;0;0;0;0;24;0;0;Photography;1909;1944;15
 Carl Andre;American;male;1935;2024;89;73;2;0;0;63;10;0;0;0;0;Drawings & Prints;1959;2002;20
-Claudia Andujar;American;female;1931;0;93;109;1;0;0;0;0;0;109;0;0;Photography;1956;1983;7
 Joanne Leonard;American;female;1940;0;84;62;1;0;0;0;0;0;62;0;0;Photography;1960;1980;13
 Raúl Anguiano;Mexican;male;1915;2006;91;20;2;0;0;19;1;0;0;0;0;Drawings & Prints;1924;1951;8
 Thomas Annan;British;male;1829;1887;58;51;1;0;0;0;0;0;51;0;0;Photography;1868;1900;5
@@ -38,10 +30,8 @@ Shusaku Arakawa;American;male;1936;2010;74;32;2;0;0;30;2;0;0;0;0;Drawings & Prin
 Diane Arbus;American;female;1923;1971;48;84;1;0;0;0;0;0;84;0;0;Photography;1960;1971;12
 Alexander Archipenko;American;male;1887;1964;77;36;2;0;0;31;5;0;0;0;0;Drawings & Prints;1912;1967;9
 Arman;American;male;1928;2005;77;33;2;0;0;29;4;0;0;0;0;Drawings & Prints;1960;1990;13
-Eugène Atget;French;male;1857;1927;70;5031;1;0;0;0;0;0;5031;0;0;Photography;1896;1956;31
 Jean-Michel Atlan;French;male;1913;1960;47;20;1;0;0;20;0;0;0;0;0;Drawings & Prints;1946;1957;3
 Richard Avedon;American;male;1923;2004;81;78;3;6;0;2;0;0;70;0;0;Photography;1947;2002;28
-Ay-O;Japanese;male;1931;0;93;104;2;0;7;97;0;0;0;0;0;Drawings & Prints;1962;1982;13
 Peggy Bacon;American;female;1895;1987;92;37;1;0;0;37;0;0;0;0;0;Drawings & Prints;1918;1934;13
 Libero Badii;Argentine;male;1916;2001;85;33;1;0;0;33;0;0;0;0;0;Drawings & Prints;1964;1967;4
 Neri Oxman;American;female;1976;0;48;31;1;31;0;0;0;0;0;0;0;Architecture & Design;2007;2018;5
@@ -49,26 +39,22 @@ Donald Baechler;American;male;1956;2022;66;29;1;0;0;29;0;0;0;0;0;Drawings & Prin
 Jo Baer;American;female;1929;0;95;37;2;0;0;34;3;0;0;0;0;Drawings & Prints;1960;2009;10
 Enrico Baj;Italian;male;1924;2003;79;59;1;0;0;59;0;0;0;0;0;Drawings & Prints;1920;1973;9
 Jirí Balcar;Czech;male;1929;1968;39;23;1;0;0;23;0;0;0;0;0;Drawings & Prints;1959;1966;3
-John Baldessari;American;male;1931;2020;89;120;4;0;0;63;5;6;46;0;0;Drawings & Prints;1966;2015;27
 Lewis Baltz;American;male;1945;2014;69;36;1;0;0;0;0;0;36;0;0;Photography;1967;1974;5
 Vladimir Baranoff-Rossiné;Ukrainian;male;1888;1944;56;51;2;0;0;50;1;0;0;0;0;Drawings & Prints;1913;1932;2
-Ernst Barlach;German;male;1870;1938;68;102;2;0;0;100;2;0;0;0;0;Drawings & Prints;1910;1932;15
 George N. Barnard;American;male;1819;1902;83;66;1;0;0;0;0;0;66;0;0;Photography;1846;1866;4
 Will Barnet;American;male;1911;2012;101;20;2;0;0;19;1;0;0;0;0;Drawings & Prints;1951;2005;9
 Tina Barney;American;female;1945;0;79;20;1;0;0;0;0;0;20;0;0;Photography;1982;1998;9
 Robert Barry;American;male;1936;0;88;40;4;0;0;31;4;2;3;0;0;Drawings & Prints;1966;2008;17
 Jennifer Bartlett;American;female;1941;2022;81;26;2;0;0;23;3;0;0;0;0;Drawings & Prints;1972;2002;11
-Georg Baselitz;German;male;1938;0;86;146;2;0;0;143;3;0;0;0;0;Drawings & Prints;1963;2005;29
-Leonard Baskin;American;male;1922;2000;78;264;2;0;0;262;2;0;0;0;0;Drawings & Prints;1948;1984;16
+Alberto Greco;Argentine;male;1931;1965;34;58;2;0;0;37;0;21;0;0;0;Drawings & Prints;1961;1965;3
 Willi Baumeister;German;male;1889;1955;66;48;3;9;0;36;3;0;0;0;0;Drawings & Prints;1920;1955;18
 Hippolyte Bayard;French;male;1801;1887;86;27;1;0;0;0;0;0;27;0;0;Photography;1842;1842;2
-Herbert Bayer;American;male;1900;1985;85;166;4;133;0;28;1;0;4;0;0;Architecture & Design;1920;1975;32
 Romare Bearden;American;male;1911;1988;77;25;3;0;0;19;2;0;4;0;0;Drawings & Prints;1935;2005;15
 Felice Beato;Italian;male;1825;1903;78;93;1;0;0;0;0;0;93;0;0;Photography;1858;1860;3
 André Beaudin;French;male;1895;1975;80;27;1;0;0;27;0;0;0;0;0;Drawings & Prints;1936;1968;4
 Bill Beckley;American;male;1946;0;78;21;2;0;0;3;0;0;18;0;0;Photography;1971;1978;4
-Max Beckmann;German;male;1884;1950;66;221;3;1;0;215;5;0;0;0;0;Drawings & Prints;1909;1951;23
 Francis Bedford;British;male;1816;1894;78;28;1;0;0;0;0;0;28;0;0;Photography;1855;1891;5
+Miguel Rio Branco;Brazilian;male;1946;0;78;37;2;0;0;0;0;1;36;0;0;Photography;1970;1985;3
 Mario Bellini;Italian;male;1935;0;89;28;1;28;0;0;0;0;0;0;0;Architecture & Design;1965;1992;14
 Hans Bellmer;German;male;1902;1975;73;61;3;0;0;29;2;0;30;0;0;Photography;1935;1973;13
 Ernest J. Bellocq;American;male;1873;1949;76;51;1;0;0;0;0;0;51;0;0;Photography;1912;1912;1
@@ -78,14 +64,10 @@ Luis Fernando Benedit;Argentine;male;1937;2011;74;28;2;0;0;27;1;0;0;0;0;Drawings
 Billy Al Bengston;American;male;1934;2022;88;55;2;0;0;54;1;0;0;0;0;Drawings & Prints;1961;1982;3
 Roloff Beny;Canadian;male;1924;1984;60;23;1;0;0;23;0;0;0;0;0;Drawings & Prints;1947;1950;3
 Christian Bérard;French;male;1902;1949;47;78;2;0;0;76;2;0;0;0;0;Drawings & Prints;1928;1947;4
-Eugene Berman;American;male;1899;1972;73;102;3;1;0;96;5;0;0;0;0;Drawings & Prints;1929;1972;14
 Zeke Berman;American;male;1951;0;73;21;1;0;0;0;0;0;21;0;0;Photography;1978;1990;9
-Émile Bernard;French;male;1868;1941;73;631;2;0;0;630;1;0;0;0;0;Drawings & Prints;1883;1933;9
 Jake Berthot;American;male;1939;2014;75;35;2;0;0;29;6;0;0;0;0;Drawings & Prints;1971;1998;14
-Joseph Beuys;German;male;1921;1986;65;117;4;0;3;99;14;1;0;0;0;Drawings & Prints;1948;1989;36
-Thomas Bewick;British;male;1753;1828;75;324;1;0;0;324;0;0;0;0;0;Drawings & Prints;1818;1818;1
+Greer Lankton;American;;1958;1996;38;27;1;0;0;0;0;0;0;27;0;Film;1977;1996;11
 Max Bill;Swiss;male;1908;1994;86;42;3;33;0;7;2;0;0;0;0;Architecture & Design;1930;1977;22
-Ilse Bing;American;female;1899;1998;99;104;1;0;0;0;0;0;104;0;0;Photography;1929;1957;12
 Auguste-Rosalie Bisson;French;male;1826;1900;74;21;1;0;0;0;0;0;21;0;0;Photography;1850;1861;7
 Louis-Auguste Bisson;French;male;1814;1876;62;21;1;0;0;0;0;0;21;0;0;Photography;1850;1861;7
 Peter Blake;British;male;1932;0;92;25;2;2;0;23;0;0;0;0;0;Drawings & Prints;1964;1998;9
@@ -94,25 +76,16 @@ Gay Block;American;female;1942;0;82;37;1;0;0;0;0;0;37;0;0;Photography;1978;1990;
 Umberto Boccioni;Italian;male;1882;1916;34;20;2;0;0;11;9;0;0;0;0;Drawings & Prints;1910;1934;7
 Mel Bochner;American;male;1940;0;84;62;3;0;0;47;7;0;8;0;0;Drawings & Prints;1966;1994;18
 Mark Bradford;American;male;1961;0;63;24;3;0;0;20;3;1;0;0;0;Drawings & Prints;2004;2021;7
-Alighiero Boetti;Italian;male;1940;1994;54;284;2;0;0;282;2;0;0;0;0;Drawings & Prints;1965;1993;14
 Karl Bohrmann;German;male;1928;1998;70;34;1;0;0;34;0;0;0;0;0;Drawings & Prints;1967;1969;3
 Jay Bolotin;American;male;1949;0;75;39;1;0;0;39;0;0;0;0;0;Drawings & Prints;1985;1985;1
-Christian Boltanski;French;male;1944;2021;77;299;2;0;0;298;1;0;0;0;0;Drawings & Prints;1981;2000;8
-Pierre Bonnard;French;male;1867;1947;80;913;2;0;0;908;5;0;0;0;0;Drawings & Prints;1891;1946;28
 Lee Bontecou;American;female;1931;2022;91;58;2;0;0;54;4;0;0;0;0;Drawings & Prints;1958;1998;23
-Blanche Parker;American;female;1902;1984;82;104;1;0;0;0;0;0;104;0;0;Photography;1916;1929;3
 Richard Bosman;Australian;male;1944;0;80;50;2;0;0;49;1;0;0;0;0;Drawings & Prints;1981;1996;7
 Mario Botta;Swiss;male;1943;0;81;39;2;37;0;2;0;0;0;0;0;Architecture & Design;1979;1996;11
-Louise Bourgeois;American;female;1911;2010;99;3381;2;0;0;3370;11;0;0;0;0;Drawings & Prints;1635;2014;56
 Margaret Bourke-White;American;female;1904;1971;67;68;1;0;0;0;0;0;68;0;0;Photography;1920;1947;16
 Arthur Tress;American;male;1940;0;84;24;1;0;0;0;0;0;24;0;0;Photography;1969;1979;8
 James Boynton;American;male;1928;2010;82;41;2;1;0;40;0;0;0;0;0;Drawings & Prints;1967;1980;2
 Mathew B. Brady (studio of);American;male;1823;1896;73;59;1;0;0;0;0;0;59;0;0;Photography;1838;1871;10
 Constantin Brâncuși;French;male;1876;1957;81;35;3;0;0;6;11;0;18;0;0;Photography;1910;1957;21
-Bill Brandt;British;male;1904;1983;79;106;1;0;0;0;0;0;106;0;0;Photography;1930;1965;31
-Georges Braque;French;male;1882;1963;81;181;3;13;0;158;10;0;0;0;0;Drawings & Prints;1906;1964;32
-Brassaï (Gyula Halász);French;male;1899;1984;85;114;2;0;0;1;0;0;113;0;0;Photography;1930;1958;21
-George Brecht;American;male;1926;2008;82;281;3;0;37;243;1;0;0;0;0;Drawings & Prints;1959;2006;29
 André Breton;French;male;1896;1966;70;31;3;1;0;29;1;0;0;0;0;Drawings & Prints;1918;1943;8
 Marcel Breuer;American;male;1902;1981;79;31;1;31;0;0;0;0;0;0;0;Architecture & Design;1922;1981;15
 William Brice;American;male;1921;2008;87;30;1;0;0;30;0;0;0;0;0;Drawings & Prints;1947;1985;7
@@ -120,11 +93,11 @@ Marcel Broodthaers;Belgian;male;1924;1976;52;95;4;0;0;72;17;3;3;0;0;Drawings & P
 James Brown;American;male;1951;2020;69;63;1;0;0;63;0;0;0;0;0;Drawings & Prints;1982;1990;3
 Roger Brown;American;male;1941;1997;56;25;2;0;0;24;1;0;0;0;0;Drawings & Prints;1978;1991;4
 Olalekan Jeyifous;American;male;1977;0;47;22;1;22;0;0;0;0;0;0;0;Architecture & Design;2021;2022;2
-Robert Brownjohn;American;male;1925;1970;45;145;1;145;0;0;0;0;0;0;0;Architecture & Design;1950;1970;15
 Salvador Bru;Chilean;male;1923;0;101;21;1;0;0;21;0;0;0;0;0;Drawings & Prints;1969;1969;1
 William Brui;Russian;male;1946;0;78;29;1;0;0;29;0;0;0;0;0;Drawings & Prints;1968;1969;2
 Günter Brus;Austrian;male;1938;2024;86;49;3;0;0;26;0;22;1;0;0;Drawings & Prints;1960;2011;20
 Boris Bućan;Croatian;male;1947;0;77;22;1;22;0;0;0;0;0;0;0;Architecture & Design;1971;1989;10
+Juraj Neidhardt;Croatian;male;1901;1979;78;40;1;40;0;0;0;0;0;0;0;Architecture & Design;1957;1979;13
 Eugene Buechel;American;male;1874;1954;80;42;1;0;0;0;0;0;42;0;0;Photography;1922;1975;19
 John G. Bullock;American;male;1854;1939;85;25;1;0;0;0;0;0;25;0;0;Photography;1885;1910;9
 Wynn Bullock;American;male;1902;1975;73;40;1;0;0;0;0;0;40;0;0;Photography;1951;1973;14
@@ -136,37 +109,25 @@ Edward Burne-Jones;British;male;1833;1898;65;90;1;0;0;90;0;0;0;0;0;Drawings & Pr
 Pol Bury;Belgian;male;1922;2005;83;46;2;0;0;43;3;0;0;0;0;Drawings & Prints;1962;1984;8
 James Lee Byars;American;male;1932;1997;65;25;2;0;0;17;8;0;0;0;0;Drawings & Prints;1959;1994;14
 Paul Cadmus;American;male;1904;1999;95;42;2;0;0;39;0;0;3;0;0;Drawings & Prints;1934;1949;9
-John Cage;American;male;1912;1992;80;103;2;0;11;92;0;0;0;0;0;Drawings & Prints;1953;2008;21
-Alexander Calder;American;male;1898;1976;78;297;3;7;0;244;46;0;0;0;0;Drawings & Prints;1926;1979;39
-Harry Callahan;American;male;1912;1999;87;266;1;0;0;0;0;0;266;0;0;Photography;1941;1984;33
 Irma Boom;Dutch;female;1960;0;64;43;1;43;0;0;0;0;0;0;0;Architecture & Design;1987;2016;23
 Luis Camnitzer;Uruguayan;male;1937;0;87;45;2;0;0;44;1;0;0;0;0;Drawings & Prints;1958;2012;7
 Massimo Campigli;Italian;male;1895;1971;76;37;1;0;0;37;0;0;0;0;0;Drawings & Prints;1932;1954;9
 John Candelario;American;male;1916;1993;77;20;1;0;0;0;0;0;20;0;0;Photography;1940;1946;7
 Rafael Canogar;Spanish;male;1935;0;89;30;1;0;0;30;0;0;0;0;0;Drawings & Prints;1969;1984;2
-Alfred Capel Cure;British;male;1826;1896;70;145;1;0;0;0;0;0;145;0;0;Photography;1852;1859;8
 Paul Caponigro;American;male;1932;0;92;22;1;0;0;0;0;0;22;0;0;Photography;1957;1968;9
-Henri Cartier-Bresson;French;male;1908;2004;96;306;2;1;0;0;0;0;305;0;0;Photography;1929;1989;36
 Carybé (Hector Bernabó);Brazilian;male;1911;1997;86;47;1;0;0;47;0;0;0;0;0;Drawings & Prints;1955;1957;2
 A. M. Cassandre;French;male;1901;1968;67;53;1;53;0;0;0;0;0;0;0;Architecture & Design;1925;1943;15
 Elizabeth Catlett;American;female;1915;2012;97;22;2;0;0;21;1;0;0;0;0;Drawings & Prints;1946;1992;8
 Patrick Caulfield;British;male;1936;2005;69;39;2;1;0;38;0;0;0;0;0;Drawings & Prints;1968;1981;6
 Vija Celmins;American;female;1938;0;86;61;2;0;0;54;7;0;0;0;0;Drawings & Prints;1964;2021;26
 Paul Cézanne;French;male;1839;1906;67;26;2;0;0;17;9;0;0;0;0;Drawings & Prints;1873;1929;16
-Marc Chagall;French;male;1887;1985;98;1174;3;3;0;1168;3;0;0;0;0;Drawings & Prints;1904;1979;35
-Aleksandra Mir;American;female;1967;0;57;175;1;0;0;175;0;0;0;0;0;Drawings & Prints;1991;2012;19
 Georgianna Stout;American;female;1967;0;57;23;1;23;0;0;0;0;0;0;0;Architecture & Design;1994;2005;10
 Martín Chambi;Peruvian;male;1891;1973;82;33;1;0;0;0;0;0;33;0;0;Photography;1923;1945;16
-André Chapon;French;male;0;0;2024;22;1;0;0;22;0;0;0;0;0;Drawings & Prints;1921;1921;1
-Jean Charlot;American;male;1898;1979;81;116;2;0;0;114;2;0;0;0;0;Drawings & Prints;1913;1943;10
 Jeff Mermelstein;American;male;1957;0;67;21;1;0;0;0;0;0;21;0;0;Photography;2017;2020;4
-John Hubley;American;male;1914;1977;63;103;1;0;0;0;0;0;0;103;0;Film;1957;1973;3
 Roger Chastel;French;male;1897;1981;84;91;1;0;0;91;0;0;0;0;0;Drawings & Prints;1948;1949;2
 José Chávez Morado;Mexican;male;1909;2002;93;38;1;0;0;38;0;0;0;0;0;Drawings & Prints;1936;1973;11
 Ivan Chermayeff;American;male;1932;2017;85;76;1;76;0;0;0;0;0;0;0;Architecture & Design;1950;1983;19
-Iakov Chernikhov;Russian;male;1889;1951;62;175;2;3;0;172;0;0;0;0;0;Drawings & Prints;1928;1933;5
 Eduardo Chillida;Spanish;male;1924;2002;78;31;1;0;0;31;0;0;0;0;0;Drawings & Prints;1966;1986;7
-Giorgio de Chirico;Italian;male;1888;1978;90;111;2;0;0;97;14;0;0;0;0;Drawings & Prints;1911;1935;12
 William Christenberry;American;male;1936;2016;80;20;1;0;0;0;0;0;20;0;0;Photography;1964;2004;17
 Christo;American;male;1935;2020;85;39;3;1;0;33;5;0;0;0;0;Drawings & Prints;1961;1996;18
 Chryssa;American;female;1933;2013;80;75;3;2;0;70;3;0;0;0;0;Drawings & Prints;1958;1978;13
@@ -186,25 +147,23 @@ Alvin Colt;American;male;1916;2008;92;32;1;0;0;32;0;0;0;0;0;Drawings & Prints;19
 Bruce Conner;American;male;1933;2008;75;60;4;0;0;51;3;5;1;0;0;Drawings & Prints;1958;2008;23
 John Coplans;British;male;1920;2003;83;25;1;0;0;0;0;0;25;0;0;Photography;1981;1992;6
 William Copley;American;male;1919;1996;77;21;2;0;0;19;2;0;0;0;0;Drawings & Prints;1961;1994;12
-Lovis Corinth;German;male;1858;1925;67;192;2;0;0;191;1;0;0;0;0;Drawings & Prints;1895;1926;20
 Joseph Cornell;American;male;1903;1972;69;21;3;0;0;13;7;0;1;0;0;Drawings & Prints;1930;1972;13
 Sohrab Hura;Indian;male;1981;0;43;29;2;0;0;0;0;1;28;0;0;Photography;2015;2019;2
 Robert Couturier;French;male;1905;2008;103;24;1;0;0;24;0;0;0;0;0;Drawings & Prints;1946;1946;1
 Miguel Covarrubias;Mexican;male;1904;1957;53;60;1;0;0;60;0;0;0;0;0;Drawings & Prints;1924;1948;4
 Meg Cranston;American;female;1960;0;64;71;1;0;0;71;0;0;0;0;0;Drawings & Prints;1988;1995;3
-George P. Critcherson;American;male;1823;1892;69;142;1;0;0;0;0;0;142;0;0;Photography;1869;1869;1
+Wayne Miller;American;male;1918;2013;95;81;1;0;0;0;0;0;81;0;0;Photography;1900;1958;7
 José Luis Cuevas;Mexican;male;1934;2017;83;79;2;1;0;78;0;0;0;0;0;Drawings & Prints;1948;1984;13
 Robert Cumming;American;male;1943;2021;78;65;2;0;0;4;0;0;61;0;0;Photography;1968;1988;13
 Imogen Cunningham;American;female;1883;1976;93;44;2;1;0;0;0;0;43;0;0;Photography;1910;1979;23
 David Bowie;British;male;1947;2016;69;37;1;0;0;0;0;37;0;0;0;Media and Performance;1972;2004;19
 Allan D'Arcangelo;American;male;1930;1998;68;37;3;2;0;33;2;0;0;0;0;Drawings & Prints;1962;1975;9
-Salvador Dalí;Spanish;male;1904;1989;85;112;2;0;0;106;6;0;0;0;0;Drawings & Prints;1927;1970;12
 Joseph Dankowski;American;male;1932;2010;78;74;1;0;0;0;0;0;74;0;0;Photography;1969;1971;3
 Hanne Darboven;German;female;1941;2009;68;25;1;0;0;25;0;0;0;0;0;Drawings & Prints;1968;2007;15
-Bruce Davidson;American;male;1933;0;91;101;1;0;0;0;0;0;101;0;0;Photography;1948;1980;11
 Arthur B. Davies;American;male;1862;1928;66;83;2;0;0;80;3;0;0;0;0;Drawings & Prints;1910;1927;14
 Stuart Davis;American;male;1892;1964;72;27;3;1;0;20;6;0;0;0;0;Drawings & Prints;1909;1964;15
 Roy DeCarava;American;male;1919;2009;90;20;2;0;0;6;0;0;14;0;0;Photography;1946;1964;13
+Richard Benson;American;male;1943;2017;74;35;1;0;0;0;0;0;35;0;0;Photography;1970;2008;13
 Nicolas de Staël;French;male;1914;1955;41;28;2;0;0;27;1;0;0;0;0;Drawings & Prints;1947;1965;7
 Zoe Leonard;American;female;1961;0;63;29;2;0;0;2;0;0;27;0;0;Photography;1987;2009;3
 Captain William de Wiveleslie Abney;British;male;1843;1920;77;41;1;0;0;0;0;0;41;0;0;Photography;1876;1876;1
@@ -215,70 +174,47 @@ Robert Delaunay;French;male;1885;1941;56;54;3;1;0;50;3;0;0;0;0;Drawings & Prints
 Sonia Delaunay-Terk;French;female;1885;1979;94;59;3;5;0;53;1;0;0;0;0;Drawings & Prints;1913;1977;18
 Paul Delvaux;Belgian;male;1897;1994;97;79;2;0;0;78;1;0;0;0;0;Drawings & Prints;1939;1973;8
 Agnes Denes;American;female;1931;0;93;22;2;0;0;21;1;0;0;0;0;Drawings & Prints;1968;1998;10
-Maurice Denis;French;male;1870;1943;73;505;2;1;0;504;0;0;0;0;0;Drawings & Prints;1891;1944;19
-André Derain;French;male;1880;1954;74;573;2;0;0;563;10;0;0;0;0;Drawings & Prints;1900;1968;23
-Charles Despiau;French;male;1874;1946;72;109;2;0;0;107;2;0;0;0;0;Drawings & Prints;1889;1943;7
 Jean Dewasne;French;male;1921;1999;78;20;1;0;0;20;0;0;0;0;0;Drawings & Prints;1946;1968;3
 Walter Dexel;German;male;1890;1973;83;52;3;44;0;7;1;0;0;0;0;Architecture & Design;1923;1950;12
-Jan Dibbets;Dutch;male;1941;0;83;458;4;0;0;22;1;1;434;0;0;Photography;1967;2015;11
 Richard Diebenkorn;American;male;1922;1993;71;39;2;0;0;36;3;0;0;0;0;Drawings & Prints;1950;1991;18
-Jim Dine;American;male;1935;0;89;432;5;4;1;400;6;0;21;0;0;Drawings & Prints;1959;2015;34
 Otto Dix;German;male;1891;1969;78;93;2;0;0;90;3;0;0;0;0;Drawings & Prints;1914;1949;12
 Burhan Dogancay;Turkish;male;1929;2013;84;20;1;0;0;20;0;0;0;0;0;Drawings & Prints;1969;1969;1
 Robert Doisneau;French;male;1912;1994;82;25;1;0;0;0;0;0;25;0;0;Photography;1944;1979;18
 Oscar Domínguez;French;male;1906;1957;51;46;2;0;0;45;1;0;0;0;0;Drawings & Prints;1935;1965;8
 Ken Domon;Japanese;male;1909;1990;81;25;1;0;0;0;0;0;25;0;0;Photography;1940;1957;4
 Giorgia Lupi;Italian;female;1981;0;43;54;1;54;0;0;0;0;0;0;0;Architecture & Design;2014;2015;2
-Gustave Doré;French;male;1832;1883;51;103;1;0;0;103;0;0;0;0;0;Drawings & Prints;1854;1854;1
 Maxime Du Camp;French;male;1822;1894;72;41;1;0;0;0;0;0;41;0;0;Photography;1849;1852;3
-Jean Dubuffet;French;male;1901;1985;84;1435;3;9;0;1395;31;0;0;0;0;Drawings & Prints;1921;1984;35
-Marcel Duchamp;American;male;1887;1968;81;228;3;3;0;207;18;0;0;0;0;Drawings & Prints;1907;1976;31
 George Lois;American;;1931;0;93;31;1;31;0;0;0;0;0;0;0;Architecture & Design;1964;1972;8
-Raoul Dufy;French;male;1877;1953;76;550;3;7;0;541;2;0;0;0;0;Drawings & Prints;1892;1951;29
-Carroll Dunham;American;male;1949;0;75;128;2;0;0;126;2;0;0;0;0;Drawings & Prints;1982;2019;25
-Charles Eames;American;male;1907;1978;71;107;3;100;0;0;0;0;1;6;0;Architecture & Design;1940;1972;27
 Ray Eames;American;female;1912;1988;76;58;3;50;0;2;0;0;0;6;0;Architecture & Design;1937;1972;26
 Thomas Eckersley;British;male;1914;1997;83;21;1;21;0;0;0;0;0;0;0;Architecture & Design;1935;1985;11
 Harold Eugene Edgerton;American;male;1903;1990;87;31;1;0;0;0;0;0;31;0;0;Photography;1932;1985;11
 Edouard-Léon-Louis Edy-Legrand;French;male;1892;1970;78;54;1;0;0;54;0;0;0;0;0;Drawings & Prints;1930;1931;2
-William Eggleston;American;male;1939;0;85;219;1;0;0;0;0;0;219;0;0;Photography;1960;2000;15
 Paul Sharits;American;male;1943;1993;50;66;3;0;38;27;0;0;0;1;0;Fluxus Collection;1965;1981;13
 Marli Ehrman;American;female;1904;1982;78;23;1;23;0;0;0;0;0;0;0;Architecture & Design;1940;1975;4
-Bogdan Bogdanović;Serbian;male;1922;2010;88;105;1;105;0;0;0;0;0;0;0;Architecture & Design;1970;2016;3
 Peter Henry Emerson;British;male;1856;1936;80;75;1;0;0;0;0;0;75;0;0;Photography;1885;1888;4
-James Ensor;Belgian;male;1860;1949;89;114;2;0;0;112;2;0;0;0;0;Drawings & Prints;1886;1931;21
-Vera Ermolaeva;Russian;female;0;0;2024;31;1;0;0;31;0;0;0;0;0;Drawings & Prints;1918;1931;9
 Hans Erni;Swiss;male;1909;2015;106;83;2;9;0;74;0;0;0;0;0;Drawings & Prints;1924;2008;11
-Max Ernst;French;male;1891;1976;85;252;3;4;0;231;17;0;0;0;0;Drawings & Prints;1919;1973;36
 Elliott Erwitt;American;male;1928;2023;95;54;1;0;0;0;0;0;54;0;0;Photography;1949;1970;18
 Guy de Cointet;American;male;1934;1983;49;23;2;0;0;11;0;12;0;0;0;Media and Performance;1970;1982;11
-Walker Evans;American;male;1903;1975;72;363;1;0;0;0;0;0;363;0;0;Photography;1928;1974;27
 Alexandra Exter;Russian;female;1882;1949;67;39;2;0;0;36;3;0;0;0;0;Drawings & Prints;1912;1930;10
 Öyvind Fahlström;Swedish;male;1928;1976;48;25;3;0;0;23;1;1;0;0;0;Drawings & Prints;1962;1974;9
 Jean Fautrier;French;male;1898;1964;66;48;2;0;0;47;1;0;0;0;0;Drawings & Prints;1927;1962;5
 Louis Favre;French;male;1892;1956;64;29;1;0;0;29;0;0;0;0;0;Drawings & Prints;1948;1955;3
 Andreas Feininger;American;male;1906;1999;93;20;1;0;0;0;0;0;20;0;0;Photography;1928;1958;16
-Lyonel Feininger;American;male;1871;1956;85;226;4;5;0;215;5;0;1;0;0;Drawings & Prints;1901;1964;39
 Conrad Felixmüller;German;male;1897;1977;80;41;1;0;0;41;0;0;0;0;0;Drawings & Prints;1917;1922;6
 Weegee (Arthur Fellig);American;male;1899;1968;69;25;1;0;0;0;0;0;25;0;0;Photography;1939;1950;8
 Roger Fenton;British;male;1819;1869;50;26;1;0;0;0;0;0;26;0;0;Photography;1850;1860;6
-León Ferrari;Argentine;male;1920;2013;93;229;3;0;0;224;2;0;3;0;0;Drawings & Prints;1962;2007;11
-Robert Filliou;French;male;1926;1987;61;147;2;0;46;101;0;0;0;0;0;Drawings & Prints;1959;1989;24
 Albert M. Fine;American;male;1932;1987;55;72;2;0;33;39;0;0;0;0;0;Drawings & Prints;1965;1982;9
 Larry Fink;American;male;1941;2023;82;31;1;0;0;0;0;0;31;0;0;Photography;1962;1991;11
 Ian Hamilton Finlay;British;male;1925;2006;81;65;1;0;0;65;0;0;0;0;0;Drawings & Prints;1964;1996;26
 Eric Fischl;American;male;1948;0;76;27;2;0;0;25;2;0;0;0;0;Drawings & Prints;1980;1993;7
 Marina Adams;American;female;1960;0;64;21;1;0;0;21;0;0;0;0;0;Drawings & Prints;2018;2022;3
 Dan Flavin;American;male;1933;1996;63;32;2;0;0;26;6;0;0;0;0;Drawings & Prints;1962;1978;14
-Antoni Llena;Spanish;male;1942;0;82;115;1;0;0;115;0;0;0;0;0;Drawings & Prints;1968;2016;2
 Lucio Fontana;Italian;male;1899;1968;69;36;3;2;0;31;3;0;0;0;0;Drawings & Prints;1935;1968;14
 Günther Förg;German;male;1952;2013;61;65;3;0;0;60;3;0;2;0;0;Drawings & Prints;1986;2003;8
 Ai Weiwei;Chinese;male;1957;0;67;37;2;0;0;30;0;0;7;0;0;Drawings & Prints;1994;2020;8
 Sam Francis;American;male;1923;1994;71;63;2;0;0;60;3;0;0;0;0;Drawings & Prints;1953;1988;18
 Kaj Franck;Finnish;male;1911;1989;78;39;1;39;0;0;0;0;0;0;0;Architecture & Design;1946;1979;11
-Robert Frank;American;male;1924;2019;95;208;3;1;0;2;0;0;205;0;0;Photography;1947;2008;38
 Helen Frankenthaler;American;female;1928;2011;83;66;3;1;0;60;5;0;0;0;0;Drawings & Prints;1951;2006;25
-Antonio Frasconi;American;male;1919;2013;94;257;2;4;0;253;0;0;0;0;0;Drawings & Prints;1947;1998;24
 Jackson Mac Low;American;male;1922;2004;82;48;2;0;7;41;0;0;0;0;0;Drawings & Prints;1955;1976;8
 Karl Free;American;male;1903;1947;44;26;1;0;0;26;0;0;0;0;0;Drawings & Prints;1936;1936;1
 Jared French;American;male;1905;1988;83;26;2;0;0;23;0;0;3;0;0;Drawings & Prints;1938;1945;4
@@ -286,20 +222,15 @@ Gauri Gill;Indian;female;1970;0;54;22;2;0;0;2;0;0;20;0;0;Photography;1999;2016;3
 Lucian Freud;British;male;1922;2011;89;23;2;0;0;21;2;0;0;0;0;Drawings & Prints;1940;2003;17
 Peter Freudenthal;Swedish;male;1938;0;86;20;1;0;0;20;0;0;0;0;0;Drawings & Prints;1977;1977;1
 Dong Gong;Chinese;male;1972;0;52;34;1;34;0;0;0;0;0;0;0;Architecture & Design;2014;2017;3
-Lee Friedlander;American;male;1934;0;90;1338;1;0;0;0;0;0;1338;0;0;Photography;1950;2011;53
-Ken Friedman;American;male;1939;0;85;108;2;0;21;87;0;0;0;0;0;Drawings & Prints;1965;2003;21
 Othon Friesz;French;male;1879;1949;70;45;1;0;0;45;0;0;0;0;0;Drawings & Prints;1914;1949;4
-Francis Frith;British;male;1822;1898;76;173;1;0;0;0;0;0;173;0;0;Photography;1839;1892;9
 Katharina Fritsch;German;female;1956;0;68;27;2;0;0;22;5;0;0;0;0;Drawings & Prints;1982;2017;12
 Trisha Brown;American;female;1936;2017;81;24;2;0;0;10;0;14;0;0;0;Media and Performance;1968;2007;8
 A. G. Fronzoni;Italian;male;1923;2002;79;56;1;56;0;0;0;0;0;0;0;Architecture & Design;1964;2001;20
 Stephen Frykholm;American;male;1942;0;82;22;1;22;0;0;0;0;0;0;0;Architecture & Design;1970;1989;20
 R. Buckminster Fuller;American;male;1895;1983;88;36;2;13;0;23;0;0;0;0;0;Drawings & Prints;1927;1981;11
-Annabel Jankel;British;female;0;0;2024;21;2;18;0;0;0;3;0;0;0;Architecture & Design;1978;1985;5
 Démétrius Emmanuel Galanis;French;male;1882;1966;84;39;1;0;0;39;0;0;0;0;0;Drawings & Prints;1924;1939;2
 Abram Games;British;male;1914;1996;82;55;1;55;0;0;0;0;0;0;0;Architecture & Design;1939;1976;13
 Emil Ganso;American;male;1895;1941;46;26;1;0;0;26;0;0;0;0;0;Drawings & Prints;1926;1940;10
-Alexander Gardner;American;male;1821;1882;61;103;1;0;0;0;0;0;103;0;0;Photography;1861;1865;5
 Marco Gastini;Italian;male;1938;0;86;21;1;0;0;21;0;0;0;0;0;Drawings & Prints;1977;1977;1
 Paul Gauguin;French;male;1848;1903;55;33;2;0;0;30;3;0;0;0;0;Drawings & Prints;1888;1928;11
 August Gaul;German;male;1869;1921;52;21;1;0;0;21;0;0;0;0;0;Drawings & Prints;1916;1920;2
@@ -312,10 +243,8 @@ George Passmore;British;male;1942;0;82;56;3;0;0;51;2;3;0;0;0;Drawings & Prints;1
 Fré Cohen;Dutch;female;1903;1943;40;54;2;53;0;1;0;0;0;0;0;Architecture & Design;1923;1937;16
 Rocky Morton;British;male;1955;0;69;21;2;18;0;0;0;3;0;0;0;Architecture & Design;1978;1985;5
 Simone Forti;American;female;1935;0;89;40;2;0;0;12;0;28;0;0;0;Media and Performance;1960;2020;14
-Alberto Giacometti;Swiss;male;1901;1966;65;128;3;3;0;92;33;0;0;0;0;Drawings & Prints;1923;1976;29
-Steve Reinke;Canadian;male;1963;0;61;101;1;0;0;0;0;101;0;0;0;Media and Performance;1989;1996;7
+Hannah Wilke;American;female;1940;1993;53;31;4;0;0;22;1;5;3;0;0;Drawings & Prints;1963;1992;14
 Eric Gill;British;male;1882;1940;58;24;1;0;0;24;0;0;0;0;0;Drawings & Prints;1931;1931;1
-Designer Unidentified;;;0;0;2024;32;2;0;4;28;0;0;0;0;0;Drawings & Prints;1962;1980;14
 Fritz Glarner;American;male;1899;1972;73;33;3;1;0;29;3;0;0;0;0;Drawings & Prints;1942;1968;12
 Milton Glaser;American;male;1929;2020;91;23;2;22;0;1;0;0;0;0;0;Architecture & Design;1966;2001;10
 Albert Gleizes;French;male;1881;1953;72;28;2;0;0;27;1;0;0;0;0;Drawings & Prints;1910;1953;9
@@ -326,15 +255,12 @@ Anne Goldthwaite;American;female;1869;1944;75;24;1;0;0;24;0;0;0;0;0;Drawings & P
 Leon Golub;American;male;1922;2004;82;44;2;0;0;42;2;0;0;0;0;Drawings & Prints;1950;1999;13
 Mirta Gómez;American;female;1953;0;71;21;1;0;0;0;0;0;21;0;0;Photography;1986;2004;11
 Leonel Gongora;Colombian;male;1932;1999;67;33;1;0;0;33;0;0;0;0;0;Drawings & Prints;1963;1986;2
-Natalia Goncharova;Russian;female;1881;1962;81;292;2;0;0;290;2;0;0;0;0;Drawings & Prints;1911;1962;15
 Julio González;Spanish;male;1876;1942;66;28;2;0;0;23;5;0;0;0;0;Drawings & Prints;1934;1942;8
 Felix Gonzalez-Torres;American;male;1957;1996;39;46;3;0;0;12;7;0;27;0;0;Photography;1987;1999;10
-T. F. Goodall;British;;0;0;2024;42;1;0;0;0;0;0;42;0;0;Photography;1885;1886;2
 Joe Goode;American;male;1937;0;87;26;2;0;0;24;2;0;0;0;0;Drawings & Prints;1962;1988;8
 Robert Goodnough;American;male;1917;2010;93;24;2;0;0;22;2;0;0;0;0;Drawings & Prints;1958;1968;5
 Adolph Gottlieb;American;male;1903;1974;71;25;2;0;0;16;9;0;0;0;0;Drawings & Prints;1942;1972;17
 Emmet Gowin;American;male;1941;0;83;24;1;0;0;0;0;0;24;0;0;Photography;1966;1996;15
-Francisco de Goya;Spanish;male;1746;1828;82;181;1;0;0;181;0;0;0;0;0;Drawings & Prints;1799;1904;4
 Dan Graham;American;male;1942;2022;80;98;4;0;0;38;3;14;43;0;0;Photography;1965;2016;21
 John D. Graham;American;male;1888;1961;73;63;2;0;0;60;3;0;0;0;0;Drawings & Prints;1935;1957;14
 Paul Graham;British;male;1956;0;68;91;1;0;0;0;0;0;91;0;0;Photography;1981;2010;8
@@ -349,12 +275,9 @@ Juan Gris;Spanish;male;1887;1927;40;60;2;0;0;54;6;0;0;0;0;Drawings & Prints;1906
 Agnes Caroline Chamberlayne Johnstone;British;female;1845;1925;80;31;1;0;0;0;0;0;31;0;0;Photography;1868;1868;1
 Red Grooms;American;male;1937;0;87;25;2;0;0;24;1;0;0;0;0;Drawings & Prints;1962;1980;9
 Jan Groover;American;female;1943;2012;69;80;1;0;0;0;0;0;80;0;0;Photography;1975;2006;17
-William Gropper;American;male;1897;1977;80;104;2;0;0;103;1;0;0;0;0;Drawings & Prints;1935;1969;8
 Harrell Fletcher;American;male;1967;0;57;51;1;0;0;0;0;0;51;0;0;Photography;2005;2005;1
 Rudolf Grossmann;German;male;1882;1941;59;25;1;0;0;25;0;0;0;0;0;Drawings & Prints;1912;1932;7
-George Grosz;American;male;1893;1959;66;236;3;2;0;231;3;0;0;0;0;Drawings & Prints;1911;1958;25
 Hector Guimard;French;male;1867;1942;75;28;1;28;0;0;0;0;0;0;0;Architecture & Design;1897;1912;12
-Philip Guston;American;male;1913;1980;67;105;2;0;0;82;23;0;0;0;0;Drawings & Prints;1940;1983;28
 Ernst Haas;American;male;1921;1986;65;22;1;0;0;0;0;0;22;0;0;Photography;1937;1960;8
 Terry Haass;French;female;1923;2016;93;22;1;0;0;22;0;0;0;0;0;Drawings & Prints;1954;1969;4
 Batiste Madalena;American;male;1902;1988;86;28;1;0;0;0;0;0;0;28;0;Film;1924;1928;5
@@ -368,7 +291,6 @@ Xu Tiantian;Chinese;male;1975;0;49;27;1;27;0;0;0;0;0;0;0;Architecture & Design;2
 Robert Hansen;American;male;1924;2013;89;28;2;0;0;27;1;0;0;0;0;Drawings & Prints;1959;1970;4
 Paul Harris;American;male;1925;2018;93;22;1;0;0;22;0;0;0;0;0;Drawings & Prints;1969;1970;2
 Walid Raad;Lebanese;male;1967;0;57;41;3;0;0;37;0;3;1;0;0;Drawings & Prints;2001;2017;7
-"George Overbury (""Pop"") Hart";American;male;1868;1933;65;108;1;0;0;108;0;0;0;0;0;Drawings & Prints;1921;1929;10
 Grace Hartigan;American;female;1922;2008;86;41;2;0;0;38;3;0;0;0;0;Drawings & Prints;1952;1967;7
 Deanna Templeton;American;female;1969;0;55;82;1;0;0;0;0;0;82;0;0;Photography;1999;2017;19
 Raoul Hausmann;German;male;1886;1971;85;29;3;2;0;20;0;0;7;0;0;Drawings & Prints;1917;1962;11
@@ -385,12 +307,9 @@ Alexander Henderson;Canadian;male;1831;1913;82;21;1;0;0;0;0;0;21;0;0;Photography
 Geoffrey Hendricks;American;male;1931;2018;87;28;2;0;7;21;0;0;0;0;0;Drawings & Prints;1965;1978;11
 Fritz Henle;American;male;1909;1993;84;25;1;0;0;0;0;0;25;0;0;Photography;1900;1955;6
 Eva Hesse;American;female;1936;1970;34;25;2;0;0;17;8;0;0;0;0;Drawings & Prints;1960;1969;8
-Dick Higgins;American;male;1938;1998;60;212;2;0;109;103;0;0;0;0;0;Fluxus Collection;1955;2005;25
-David Octavius Hill;British;male;1802;1870;68;170;1;0;0;0;0;0;170;0;0;Photography;1840;1870;8
 Lewis Wickes Hine;American;male;1874;1940;66;98;1;0;0;0;0;0;98;0;0;Photography;1905;1930;17
 Stanley Wolukau-Wanambwa;British;male;1980;0;44;40;1;0;0;0;0;0;40;0;0;Photography;2012;2021;2
 Franz Hitzler;German;male;1946;0;78;22;1;0;0;22;0;0;0;0;0;Drawings & Prints;1979;1987;3
-David Hockney;British;male;1937;0;87;248;4;2;0;240;2;0;4;0;0;Drawings & Prints;1961;1998;24
 Howard Hodgkin;British;male;1932;2017;85;22;3;2;0;18;2;0;0;0;0;Drawings & Prints;1977;2015;9
 Beth Van Hoesen;American;female;1926;2010;84;40;1;0;0;40;0;0;0;0;0;Drawings & Prints;1962;1965;2
 Karl Hofer;German;male;1878;1955;77;23;2;0;0;22;1;0;0;0;0;Drawings & Prints;1922;1948;7
@@ -414,10 +333,12 @@ Henri-Gabriel Ibels;French;male;1867;1936;69;29;1;0;0;29;0;0;0;0;0;Drawings & Pr
 Shoichi Ida;Japanese;male;1941;2006;65;25;1;0;0;25;0;0;0;0;0;Drawings & Prints;1970;1990;7
 Masuo Ikeda;Japanese;male;1934;1997;63;98;1;0;0;98;0;0;0;0;0;Drawings & Prints;1961;1994;12
 Jörg Immendorff;German;male;1945;2007;62;35;2;0;0;31;4;0;0;0;0;Drawings & Prints;1966;2002;19
+Hans Danuser;Swiss;male;1953;0;71;36;2;34;0;2;0;0;0;0;0;Architecture & Design;1992;1998;4
 Robert Indiana;American;male;1928;2018;90;56;3;7;0;45;4;0;0;0;0;Drawings & Prints;1959;1992;14
 Eugène Ionesco;French;male;1909;1994;85;21;1;0;0;21;0;0;0;0;0;Drawings & Prints;1980;1987;3
 Yasuhiro Ishimoto;Japanese;male;1921;2012;91;41;1;0;0;0;0;0;41;0;0;Photography;1936;1960;7
 Robert Israel;American;male;1939;0;85;38;1;0;0;38;0;0;0;0;0;Drawings & Prints;1972;1982;2
+Tim Rollins;American;male;1955;2017;62;45;2;0;0;44;1;0;0;0;0;Drawings & Prints;1985;1997;5
 Gerald Jackson;American;male;1936;0;88;80;1;0;0;80;0;0;0;0;0;Drawings & Prints;1973;1973;1
 William Henry Jackson;American;male;1843;1942;99;27;1;0;0;0;0;0;27;0;0;Photography;1869;1941;12
 Alfred Jarry;French;male;1873;1907;34;42;1;0;0;42;0;0;0;0;0;Drawings & Prints;1894;1898;5
@@ -426,7 +347,6 @@ Paul Jenkins;American;male;1923;2012;89;37;2;0;0;36;1;0;0;0;0;Drawings & Prints;
 Alfred Jensen;American;male;1903;1981;78;36;2;0;0;32;4;0;0;0;0;Drawings & Prints;1959;1968;7
 Bill Jensen;American;male;1945;0;79;65;1;0;0;65;0;0;0;0;0;Drawings & Prints;1975;2011;19
 Max Jiménez;Costa Rican;male;1908;1949;41;62;1;0;0;62;0;0;0;0;0;Drawings & Prints;1936;1937;2
-Jasper Johns;American;male;1930;0;94;437;3;2;0;422;13;0;0;0;0;Drawings & Prints;1954;2021;56
 Ray Johnson;American;male;1927;1995;68;32;3;2;2;28;0;0;0;0;0;Drawings & Prints;1959;2005;23
 Ynez Johnston;American;female;1920;2019;99;38;1;0;0;38;0;0;0;0;0;Drawings & Prints;1950;1970;4
 Joan Jonas;American;female;1936;0;88;27;2;0;0;9;0;18;0;0;0;Media and Performance;1972;2017;14
@@ -436,23 +356,17 @@ John Paul Jones;American;male;1924;1999;75;35;1;0;0;35;0;0;0;0;0;Drawings & Prin
 Asger Jorn;Danish;male;1914;1973;59;61;1;0;0;61;0;0;0;0;0;Drawings & Prints;1938;1973;12
 Donald Judd;American;male;1928;1994;66;80;2;0;0;69;11;0;0;0;0;Drawings & Prints;1960;1991;20
 Willem de Ridder;Dutch;male;1939;0;85;50;2;0;8;42;0;0;0;0;0;Drawings & Prints;1961;1985;14
-Louis I. Kahn;American;male;1901;1974;73;130;1;130;0;0;0;0;0;0;0;Architecture & Design;1952;1983;17
 Horst-Egon Kalinowski;German;male;1924;2013;89;32;2;0;0;31;1;0;0;0;0;Drawings & Prints;1961;1965;5
 Simpson Kalisher;American;male;1926;2023;97;22;1;0;0;0;0;0;22;0;0;Photography;1955;1963;6
-Vasily Kandinsky;French;male;1866;1944;78;154;3;3;0;144;7;0;0;0;0;Drawings & Prints;1901;1953;28
 Matsumi Kanemitsu;American;male;1922;1992;70;75;1;0;0;75;0;0;0;0;0;Drawings & Prints;1961;1970;6
-Anatoli Lvovich Kaplan;Russian;male;1902;1980;78;128;1;0;0;128;0;0;0;0;0;Drawings & Prints;1957;1962;3
 Anish Kapoor;British;male;1954;0;70;44;2;0;0;43;1;0;0;0;0;Drawings & Prints;1979;2004;12
 Allan Kaprow;American;male;1927;2006;79;21;2;0;2;19;0;0;0;0;0;Drawings & Prints;1961;1976;8
 Erica Karawina;German;female;1904;2003;99;31;1;0;0;31;0;0;0;0;0;Drawings & Prints;99999;0;1
 Gertrude Käsebier;American;female;1852;1934;82;89;1;0;0;0;0;0;89;0;0;Photography;1896;1913;14
-Alex Katz;American;male;1927;0;97;162;3;1;0;153;8;0;0;0;0;Drawings & Prints;1951;2014;36
-E. McKnight Kauffer;American;male;1890;1954;64;201;2;183;0;18;0;0;0;0;0;Architecture & Design;1915;1950;29
 Henry Flynt;American;male;1940;0;84;71;2;0;11;60;0;0;0;0;0;Drawings & Prints;1959;1982;16
 On Kawara;Japanese;male;1933;0;91;83;2;0;0;47;36;0;0;0;0;Drawings & Prints;1967;2017;14
 Obiora Udechukwu;Nigerian;male;1946;0;78;25;1;0;0;25;0;0;0;0;0;Drawings & Prints;2006;2006;1
 Mike Kelley;American;male;1954;2012;58;36;3;0;0;29;5;2;0;0;0;Drawings & Prints;1975;2007;21
-Ellsworth Kelly;American;male;1923;2015;92;2205;3;16;0;2172;17;0;0;0;0;Drawings & Prints;1948;2012;51
 Clarence Kennedy;American;male;1892;1972;80;38;1;0;0;0;0;0;38;0;0;Photography;1933;1933;2
 Eugène Nestor de Kermadec;French;male;1899;1976;77;41;1;0;0;41;0;0;0;0;0;Drawings & Prints;1949;1949;1
 André Kertész;American;male;1894;1985;91;58;1;0;0;0;0;0;58;0;0;Photography;1914;1969;20
@@ -460,23 +374,17 @@ Anselm Kiefer;German;male;1945;0;79;38;2;0;0;31;7;0;0;0;0;Drawings & Prints;1972
 Frederick Kiesler;American;male;1890;1965;75;38;3;19;0;15;4;0;0;0;0;Architecture & Design;1923;1964;14
 Chris Killip;British;male;1946;2020;74;20;1;0;0;0;0;0;20;0;0;Photography;1974;1990;11
 Darius Kinsey;American;male;1869;1945;76;31;1;0;0;0;0;0;31;0;0;Photography;1906;1945;11
-Martin Kippenberger;German;male;1953;1997;44;261;2;0;0;256;5;0;0;0;0;Drawings & Prints;1977;2000;21
-Ernst Ludwig Kirchner;German;male;1880;1938;58;174;2;0;0;172;2;0;0;0;0;Drawings & Prints;1904;1936;23
 Per Kirkeby;Danish;male;1938;2018;80;69;3;0;5;62;2;0;0;0;0;Drawings & Prints;1965;1997;17
-R. B. Kitaj;American;male;1932;2007;75;113;3;1;0;110;2;0;0;0;0;Drawings & Prints;1963;2000;15
-Paul Klee;German;male;1879;1940;61;147;3;3;0;130;14;0;0;0;0;Drawings & Prints;1903;1955;35
 William Klein;American;male;1928;2022;94;56;1;0;0;0;0;0;56;0;0;Photography;1954;1987;12
 Yves Klein;French;male;1928;1962;34;20;3;0;0;11;3;0;6;0;0;Drawings & Prints;1957;1973;6
 Mark Klett;American;male;1952;0;72;35;1;0;0;0;0;0;35;0;0;Photography;1979;2023;34
 Max Klinger;German;male;1857;1920;63;40;1;0;0;40;0;0;0;0;0;Drawings & Prints;1880;1904;7
 Stuart Klipper;American;male;1941;0;83;26;1;0;0;0;0;0;26;0;0;Photography;1976;1989;5
+Nicole Eisenman;American;female;1965;0;59;26;2;0;0;24;2;0;0;0;0;Drawings & Prints;1992;2014;9
 Gabriel Kohn;American;male;1910;1975;65;22;2;0;0;18;4;0;0;0;0;Drawings & Prints;1959;1969;5
 Misch Kohn;American;male;1916;2003;87;26;1;0;0;26;0;0;0;0;0;Drawings & Prints;1949;1976;8
-Oskar Kokoschka;Austrian;male;1886;1980;94;147;3;4;0;139;4;0;0;0;0;Drawings & Prints;1907;1973;21
 Käthe Kollwitz;German;female;1867;1945;78;36;2;1;0;35;0;0;0;0;0;Drawings & Prints;1903;1948;17
 Vitaly Komar;American;male;1943;0;81;21;2;0;0;20;1;0;0;0;0;Drawings & Prints;1981;1992;7
-Komar and Melamid;American;male;0;0;2024;22;2;0;0;21;1;0;0;0;0;Drawings & Prints;1981;1992;7
-Willem de Kooning;American;male;1904;1997;93;140;3;1;0;130;9;0;0;0;0;Drawings & Prints;1947;1988;23
 Takehisa Kosugi;Japanese;male;1938;2018;80;58;2;0;14;44;0;0;0;0;0;Drawings & Prints;1963;1982;9
 Joseph Kosuth;American;male;1945;0;79;21;2;0;0;18;3;0;0;0;0;Drawings & Prints;1965;2000;11
 Josef Koudelka;Czech;male;1938;0;86;35;1;0;0;0;0;0;35;0;0;Photography;1962;1977;11
@@ -484,36 +392,29 @@ Jannis Kounellis;Greek;male;1936;2017;81;33;2;0;0;32;1;0;0;0;0;Drawings & Prints
 George Krause;American;male;1937;0;87;20;1;0;0;0;0;0;20;0;0;Photography;1959;1970;7
 Leon Krier;Luxembourger;male;1946;0;78;21;1;21;0;0;0;0;0;0;0;Architecture & Design;1969;1985;9
 Abram Krol;French;male;1919;2001;82;31;1;0;0;31;0;0;0;0;0;Drawings & Prints;1955;1960;3
-Aleksei Kruchenykh;Russian;male;1886;1968;82;101;1;0;0;101;0;0;0;0;0;Drawings & Prints;1910;1930;14
 Barbara Kruger;American;female;1945;0;79;34;2;0;0;33;1;0;0;0;0;Drawings & Prints;1982;2017;6
 Nicholas Krushenick;American;male;1929;1999;70;32;3;3;0;28;1;0;0;0;0;Drawings & Prints;1965;1973;4
 Alfred Kubin;Austrian;male;1877;1959;82;52;1;0;0;52;0;0;0;0;0;Drawings & Prints;1900;1938;14
 Shigeko Kubota;Japanese;female;1937;2015;78;51;4;0;2;33;1;15;0;0;0;Drawings & Prints;1963;2006;23
 Walt Kuhn;American;male;1877;1949;72;52;2;0;0;51;1;0;0;0;0;Drawings & Prints;1915;1932;12
 Yasuo Kuniyoshi;American;male;1889;1953;64;97;2;0;0;96;1;0;0;0;0;Drawings & Prints;1916;1949;21
-František Kupka;Czech;male;1871;1957;86;227;2;0;0;222;5;0;0;0;0;Drawings & Prints;1899;1953;17
-Yayoi Kusama;Japanese;female;1929;0;95;114;3;0;0;15;4;0;95;0;0;Photography;1951;2004;12
 Robert Kushner;American;male;1949;0;75;25;2;0;0;24;1;0;0;0;0;Drawings & Prints;1980;1981;2
 Roger de La Fresnaye;French;male;1885;1925;40;70;2;0;0;69;1;0;0;0;0;Drawings & Prints;1910;1950;9
 Gaston Lachaise;American;male;1882;1935;53;23;2;0;0;14;9;0;0;0;0;Drawings & Prints;1906;1935;12
 Gerald Laing;British;male;1936;2011;75;66;1;0;0;66;0;0;0;0;0;Drawings & Prints;1965;1969;5
 Wifredo Lam;Cuban;male;1902;1982;80;27;1;0;0;27;0;0;0;0;0;Drawings & Prints;1939;1976;12
-Dorothea Lange;American;female;1895;1965;70;480;1;0;0;0;0;0;480;0;0;Photography;1915;1964;31
 Pierre Laprade;French;male;1875;1931;56;44;1;0;0;44;0;0;0;0;0;Drawings & Prints;1924;1940;2
-Mikhail Larionov;Russian;male;1881;1964;83;167;2;0;0;165;2;0;0;0;0;Drawings & Prints;1906;1962;13
 Jacques-Henri Lartigue;French;male;1894;1986;92;45;1;0;0;0;0;0;45;0;0;Photography;1904;1922;12
 Clarence John Laughlin;American;male;1905;1985;80;24;1;0;0;0;0;0;24;0;0;Photography;1938;1965;12
 Marie Laurencin;French;female;1883;1956;73;97;1;0;0;97;0;0;0;0;0;Drawings & Prints;1906;1947;21
-Henri Laurens;French;male;1885;1954;69;164;3;2;0;156;6;0;0;0;0;Drawings & Prints;1915;1956;19
 Jacob Lawrence;American;male;1917;2000;83;41;2;0;0;11;30;0;0;0;0;Painting & Sculpture;1940;2005;11
-Le Corbusier (Charles-Édouard Jeanneret);French;male;1887;1965;78;209;3;63;0;145;1;0;0;0;0;Drawings & Prints;1919;2012;31
 Gustave Le Gray;French;male;1820;1884;64;36;1;0;0;0;0;0;36;0;0;Photography;1851;1860;5
 Barry Le Va;American;male;1941;2021;80;31;1;0;0;31;0;0;0;0;0;Drawings & Prints;1967;2007;17
 Rico Lebrun;American;male;1900;1964;64;26;2;0;0;25;1;0;0;0;0;Drawings & Prints;1940;1963;6
 Russell Lee;American;male;1903;1986;83;31;1;0;0;0;0;0;31;0;0;Photography;1936;1942;5
 Tom Lee;American;male;1910;1971;61;20;1;0;0;20;0;0;0;0;0;Drawings & Prints;1941;1941;1
 Wilhelm Lehmbruck;German;male;1881;1919;38;37;3;1;0;32;4;0;0;0;0;Drawings & Prints;1910;1955;8
-José Costa Leite;Brazilian;male;0;0;2024;21;1;0;0;21;0;0;0;0;0;Drawings & Prints;1968;1968;1
+David Shrigley;British;male;1968;0;56;57;1;0;0;57;0;0;0;0;0;Drawings & Prints;1998;2008;6
 Jan Lenica;Polish;male;1928;2001;73;20;2;17;0;0;0;0;0;3;0;Architecture & Design;1955;1970;11
 John Lennon;British;male;1940;1980;40;20;2;0;5;15;0;0;0;0;0;Drawings & Prints;1968;1995;8
 Janusz Lesniak;Polish;male;1947;0;77;27;1;0;0;0;0;0;27;0;0;Photography;1976;1994;3
@@ -521,13 +422,10 @@ Julian Lethbridge;British;male;1947;0;77;31;2;0;0;30;1;0;0;0;0;Drawings & Prints
 Gerd Leufert;Venezuelan;male;1914;1998;84;33;3;11;0;18;4;0;0;0;0;Drawings & Prints;1954;1995;15
 John Levee;American;male;1924;2017;93;20;2;0;0;18;2;0;0;0;0;Drawings & Prints;1954;1969;5
 Les Levine;American;male;1935;0;89;90;2;0;0;88;0;2;0;0;0;Drawings & Prints;1965;1986;9
-Sherrie Levine;American;female;1947;0;77;111;3;0;0;83;14;0;14;0;0;Drawings & Prints;1979;2003;14
 Helen Levitt;American;female;1913;2009;96;89;1;0;0;0;0;0;89;0;0;Photography;1938;1984;19
-Sol LeWitt;American;male;1928;2007;79;630;3;0;0;617;11;0;2;0;0;Drawings & Prints;1963;2005;41
 Ernst Van Leyden;American;male;1892;1969;77;22;1;0;0;22;0;0;0;0;0;Drawings & Prints;1966;1967;2
 André Lhote;French;male;1885;1962;77;20;1;0;0;20;0;0;0;0;0;Drawings & Prints;1918;1924;3
 Alexander Liberman;American;male;1912;1999;87;42;3;0;0;33;8;0;1;0;0;Drawings & Prints;1927;1980;12
-Roy Lichtenstein;American;male;1923;1997;74;157;3;4;0;141;12;0;0;0;0;Drawings & Prints;1959;1998;29
 Jerome Liebling;American;male;1924;2011;87;25;1;0;0;0;0;0;25;0;0;Photography;1947;1982;17
 Richard Lindner;American;male;1901;1978;77;34;3;3;0;28;3;0;0;0;0;Drawings & Prints;1942;1977;13
 Leo Lionni;American;male;1910;1999;89;22;1;22;0;0;0;0;0;0;0;Architecture & Design;1941;1990;6
@@ -535,7 +433,6 @@ Jacques Lipchitz;American;male;1891;1973;82;29;2;0;0;19;10;0;0;0;0;Drawings & Pr
 Peter Lipman-Wulf;American;male;1905;0;119;23;1;0;0;23;0;0;0;0;0;Drawings & Prints;1963;1963;1
 Richard Lippold;American;male;1915;2002;87;23;2;0;0;21;2;0;0;0;0;Drawings & Prints;1947;1977;8
 Seymour Lipton;American;male;1903;1986;83;23;2;0;0;20;3;0;0;0;0;Drawings & Prints;1948;1965;14
-El Lissitzky;Russian;male;1890;1941;51;164;4;14;0;141;2;0;7;0;0;Drawings & Prints;1916;1937;22
 Frank Lobdell;American;male;1921;0;103;32;1;0;0;32;0;0;0;0;0;Drawings & Prints;1966;1966;1
 Charles Locke;American;male;1899;1983;84;42;1;0;0;42;0;0;0;0;0;Drawings & Prints;1936;1936;2
 George Lockwood;American;male;1929;1969;40;42;1;0;0;42;0;0;0;0;0;Drawings & Prints;1959;1966;3
@@ -544,17 +441,12 @@ Richard Long;British;male;1945;0;79;46;3;0;0;42;3;0;1;0;0;Drawings & Prints;1969
 Louis Lozowick;American;male;1892;1973;81;22;1;0;0;22;0;0;0;0;0;Drawings & Prints;1926;1935;8
 Maximilien Luce;French;male;1858;1941;83;23;1;0;0;23;0;0;0;0;0;Drawings & Prints;1890;1898;3
 Markus Lüpertz;German;male;1941;0;83;71;2;0;0;70;1;0;0;0;0;Drawings & Prints;1964;1998;14
-Jean Lurçat;French;male;1892;1966;74;122;3;2;0;119;1;0;0;0;0;Drawings & Prints;1907;1952;9
 Beatriz González;Colombian;female;1938;0;86;33;2;0;0;31;2;0;0;0;0;Drawings & Prints;1967;1983;4
 George Platt Lynes;American;male;1907;1955;48;67;1;0;0;0;0;0;67;0;0;Photography;1900;1955;22
 Danny Lyon;American;male;1942;0;82;44;1;0;0;0;0;0;44;0;0;Photography;1962;1979;14
 Ingrid Wiener;Austrian;female;1942;0;82;60;2;0;0;59;1;0;0;0;0;Drawings & Prints;1973;1986;8
-Aristide Maillol;French;male;1861;1944;83;580;2;0;0;572;8;0;0;0;0;Drawings & Prints;1892;1951;25
 William Majors;American;male;1930;1982;52;24;1;0;0;24;0;0;0;0;0;Drawings & Prints;1962;1966;4
-Alison Knowles;American;female;1933;0;91;103;2;0;10;93;0;0;0;0;0;Drawings & Prints;1960;2005;20
-Kazimir Malevich;Russian;male;1878;1935;57;129;2;0;0;122;7;0;0;0;0;Drawings & Prints;1911;1973;15
 Robert Mallary;American;male;1917;1997;80;21;2;0;0;20;1;0;0;0;0;Drawings & Prints;1942;1962;3
-Man Ray (Emmanuel Radnitzky);American;male;1890;1976;86;192;4;3;0;25;4;0;160;0;0;Photography;1908;1971;30
 Mateo Manaure;Venezuelan;male;1926;2018;92;40;2;0;0;39;1;0;0;0;0;Drawings & Prints;1954;1969;3
 Robert Mangold;American;male;1937;0;87;74;2;0;0;70;4;0;0;0;0;Drawings & Prints;1966;2008;19
 Sylvia Plimack Mangold;American;female;1938;0;86;21;2;0;0;20;1;0;0;0;0;Drawings & Prints;1968;2001;11
@@ -563,7 +455,6 @@ Robert Mapplethorpe;American;male;1946;1989;43;46;3;2;0;9;0;0;35;0;0;Photography
 Léo Marchutz;French;male;1903;1976;73;94;1;0;0;94;0;0;0;0;0;Drawings & Prints;1949;1949;2
 Gerhard Marcks;German;male;1889;1981;92;58;3;2;0;54;2;0;0;0;0;Drawings & Prints;1921;1957;13
 Louis Marcoussis;Polish;male;1883;1941;58;48;2;0;0;47;1;0;0;0;0;Drawings & Prints;1898;1968;13
-Brice Marden;American;male;1938;2023;85;107;2;0;0;100;7;0;0;0;0;Drawings & Prints;1962;2008;28
 Enzo Mari;Italian;male;1932;2020;88;27;1;27;0;0;0;0;0;0;0;Architecture & Design;1958;1991;15
 John Marin;American;male;1870;1953;83;25;1;0;0;25;0;0;0;0;0;Drawings & Prints;1906;1944;14
 Marino Marini;Italian;male;1901;1980;79;21;3;1;0;16;4;0;0;0;0;Drawings & Prints;1942;1956;12
@@ -573,14 +464,9 @@ Albert Marquet;French;male;1875;1947;72;43;1;0;0;43;0;0;0;0;0;Drawings & Prints;
 Agnes Martin;American;female;1912;2004;92;52;2;0;0;43;9;0;0;0;0;Drawings & Prints;1952;1997;14
 Fred Martin;American;male;1927;0;97;43;1;0;0;43;0;0;0;0;0;Drawings & Prints;1976;1976;1
 Maryan S. Maryan;American;male;1927;1977;50;43;1;0;0;43;0;0;0;0;0;Drawings & Prints;1961;1975;4
-Frans Masereel;Belgian;male;1889;1972;83;201;1;0;0;201;0;0;0;0;0;Drawings & Prints;1925;1925;1
-André Masson;French;male;1896;1987;91;313;3;3;0;301;9;0;0;0;0;Drawings & Prints;1923;1984;39
 Gregory Masurovsky;American;male;1929;2009;80;55;1;0;0;55;0;0;0;0;0;Drawings & Prints;1957;1992;8
-Henri Matisse;French;male;1869;1954;85;1070;3;8;0;1010;52;0;0;0;0;Drawings & Prints;1896;1983;56
 Mikhail Matiushin;Russian;male;1861;1934;73;54;2;0;0;53;1;0;0;0;0;Drawings & Prints;1912;1932;3
-Roberto Matta;Chilean;male;1911;2002;91;227;3;1;0;220;6;0;0;0;0;Drawings & Prints;1927;2005;23
 Herbert Matter;American;male;1907;1984;77;24;2;22;0;0;0;0;2;0;0;Architecture & Design;1900;1966;13
-Maull and Polyblank;British;;0;0;2024;41;1;0;0;0;0;0;41;0;0;Photography;1859;1859;1
 Almir Mavignier;Brazilian;male;1925;0;99;41;2;22;0;19;0;0;0;0;0;Architecture & Design;1958;1967;10
 Michael Mazur;American;male;1935;2009;74;60;1;0;0;60;0;0;0;0;0;Drawings & Prints;1962;1986;5
 Allan McCollum;American;male;1944;0;80;27;3;0;0;12;2;0;13;0;0;Photography;1974;2010;9
@@ -589,7 +475,6 @@ John McLaughlin;American;male;1898;1976;78;21;2;0;0;19;2;0;0;0;0;Drawings & Prin
 Bruce McLean;British;male;1944;0;80;77;1;0;0;77;0;0;0;0;0;Drawings & Prints;1981;1989;6
 Richard Meier;American;male;1934;0;90;34;1;34;0;0;0;0;0;0;0;Architecture & Design;1970;1991;11
 Alex Melamid;American;male;1945;0;79;21;2;0;0;20;1;0;0;0;0;Drawings & Prints;1981;1992;7
-Leopoldo Méndez;Mexican;male;1902;1969;67;163;1;0;0;163;0;0;0;0;0;Drawings & Prints;1929;1948;18
 Ana Mendieta;American;female;1948;1985;37;30;3;0;0;25;1;0;4;0;0;Drawings & Prints;1972;1984;6
 Antonio Mendoza;American;male;1941;0;83;69;1;0;0;0;0;0;69;0;0;Photography;1971;1984;12
 Edward Meneeley;American;male;1927;0;97;22;1;0;0;22;0;0;0;0;0;Drawings & Prints;1965;1966;2
@@ -600,32 +485,25 @@ Joel Meyerowitz;American;male;1938;0;86;44;1;0;0;0;0;0;44;0;0;Photography;1963;1
 Hal Fischer;American;male;1950;0;74;25;1;0;0;0;0;0;25;0;0;Photography;1977;1977;1
 Henri Michaux;French;male;1899;1984;85;50;1;0;0;50;0;0;0;0;0;Drawings & Prints;1946;1983;7
 Robert Michel;German;male;1897;1983;86;42;2;25;0;17;0;0;0;0;0;Architecture & Design;1920;1971;9
+Alfredo Boulton;Venezuelan;male;1908;1995;87;30;1;0;0;0;0;0;30;0;0;Photography;1934;1942;3
 Eleanore Mikus;American;female;1927;2017;90;32;2;0;0;31;1;0;0;0;0;Drawings & Prints;1963;1968;3
 Donna-Lee Phillips;American;female;1941;0;83;48;1;0;0;0;0;0;48;0;0;Photography;1977;1977;1
 Zwi Milshtein;Israeli;male;1934;0;90;29;1;0;0;29;0;0;0;0;0;Drawings & Prints;1965;1966;2
 Marta Minujín;Argentine;male;1943;0;81;38;3;4;0;1;0;33;0;0;0;Media and Performance;1966;2017;4
-Joan Miró;Spanish;male;1893;1983;90;506;4;19;0;456;30;0;0;1;0;Drawings & Prints;1917;1987;51
-Richard Misrach;American;male;1949;0;75;101;1;0;0;0;0;0;101;0;0;Photography;1972;2013;23
 Joan Mitchell;American;female;1925;1992;67;50;2;0;0;44;6;0;0;0;0;Drawings & Prints;1957;1992;12
 Lisette Model;American;female;1901;1983;82;27;1;0;0;0;0;0;27;0;0;Photography;1937;1954;9
 Amedeo Modigliani;Italian;male;1884;1920;36;22;2;0;0;18;4;0;0;0;0;Drawings & Prints;1914;1927;10
 Tina Modotti;Italian;female;1896;1942;46;32;1;0;0;0;0;0;32;0;0;Photography;1923;1929;7
-László Moholy-Nagy;American;male;1895;1946;51;129;4;56;0;19;10;0;44;0;0;Architecture & Design;1919;1946;24
 Johannes Molzahn;German;male;1892;1965;73;37;1;37;0;0;0;0;0;0;0;Architecture & Design;1922;1950;6
 Sahlan Momo;Italian;male;1944;0;80;21;1;0;0;21;0;0;0;0;0;Drawings & Prints;1986;1986;1
 Piet Mondrian;Dutch;male;1872;1944;72;31;3;5;0;10;16;0;0;0;0;Painting & Sculpture;1898;1953;22
-Henry Moore;British;male;1898;1986;88;124;3;1;0;108;15;0;0;0;0;Drawings & Prints;1934;1983;26
-Jesús Morales Aguilar;Mexican;male;0;0;2024;21;1;0;0;21;0;0;0;0;0;Drawings & Prints;1933;1933;1
 Giorgio Morandi;Italian;male;1890;1964;74;22;2;0;0;19;3;0;0;0;0;Drawings & Prints;1912;1949;15
-Jerry Lewis;American;male;1926;2017;91;302;1;0;0;0;0;0;0;302;0;Film;99999;0;1
 Barbara Morgan;American;female;1900;1992;92;24;1;0;0;0;0;0;24;0;0;Photography;1915;1945;10
 Daido Moriyama;Japanese;male;1938;0;86;25;1;0;0;0;0;0;25;0;0;Photography;1964;1972;9
-Robert Morris;American;male;1931;2018;87;103;3;0;0;63;11;0;29;0;0;Drawings & Prints;1961;1990;20
 Wright Morris;American;male;1910;1998;88;63;1;0;0;0;0;0;63;0;0;Photography;1936;1952;12
 Ree Morton;American;female;1936;1977;41;84;2;0;0;83;1;0;0;0;0;Drawings & Prints;1968;1977;11
 Koloman Moser;Austrian;male;1868;1918;50;29;1;29;0;0;0;0;0;0;0;Architecture & Design;1898;1905;7
 Ed Moses;American;male;1926;2018;92;48;2;0;0;47;1;0;0;0;0;Drawings & Prints;1968;1993;4
-Robert Motherwell;American;male;1915;1991;76;276;3;2;0;265;9;0;0;0;0;Drawings & Prints;1941;1989;34
 Josef Müller-Brockmann;Swiss;male;1914;1996;82;34;1;34;0;0;0;0;0;0;0;Architecture & Design;1953;1980;10
 Lee Mullican;American;male;1919;1998;79;43;2;0;0;42;1;0;0;0;0;Drawings & Prints;1947;1969;8
 Matt Mullican;American;male;1951;0;73;82;1;0;0;82;0;0;0;0;0;Drawings & Prints;1974;2015;15
@@ -633,14 +511,12 @@ Bruno Munari;Italian;male;1907;1998;91;30;2;24;0;6;0;0;0;0;0;Architecture & Desi
 Edvard Munch;Norwegian;male;1863;1944;81;78;2;0;0;77;1;0;0;0;0;Drawings & Prints;1893;1930;19
 Eric Andersen;Danish;male;1940;0;84;50;2;0;24;26;0;0;0;0;0;Drawings & Prints;1961;1989;12
 Henning Christiansen;Danish;male;1932;2008;76;42;2;0;9;33;0;0;0;0;0;Drawings & Prints;1962;1992;11
-Philip Corner;American;male;1933;0;91;122;2;0;5;117;0;0;0;0;0;Drawings & Prints;1958;2007;13
 Hi Red Center;;;1963;1964;1;100;2;0;5;95;0;0;0;0;0;Drawings & Prints;1962;1976;8
 Toshi Ichiyanagi;Japanese;male;1933;2022;89;29;2;0;22;7;0;0;0;0;0;Fluxus Collection;1960;1963;5
 György Sándor Ligeti;Austrian;male;1923;2006;83;22;1;0;0;22;0;0;0;0;0;Drawings & Prints;1961;1976;7
 Elizabeth Murray;American;female;1940;2007;67;100;2;0;0;92;8;0;0;0;0;Drawings & Prints;1976;2006;28
 Edo Murtić;Croatian;male;1921;2005;84;60;1;0;0;60;0;0;0;0;0;Drawings & Prints;1981;1984;2
 Tomas Schmit;German;male;1943;2006;63;30;2;0;3;27;0;0;0;0;0;Drawings & Prints;1962;2003;12
-Eadweard J. Muybridge;American;male;1830;1904;74;214;1;0;0;0;0;0;214;0;0;Photography;1872;1884;6
 Nadar (Gaspard-Félix Tournachon);French;male;1820;1910;90;25;1;0;0;0;0;0;25;0;0;Photography;1854;1886;15
 Elie Nadelman;American;male;1882;1946;64;55;2;0;0;49;6;0;0;0;0;Drawings & Prints;1904;1952;16
 Fernanda Laguna;Argentine;female;1972;0;52;26;1;0;0;26;0;0;0;0;0;Drawings & Prints;2019;2019;1
@@ -648,14 +524,11 @@ Genpei Akasegawa;Japanese;male;1937;2014;77;20;1;0;0;20;0;0;0;0;0;Drawings & Pri
 Umberto Nason;Italian;male;1889;1964;75;21;1;21;0;0;0;0;0;0;0;Architecture & Design;1954;1954;1
 Larry Miller;American;male;1944;0;80;22;2;0;10;12;0;0;0;0;0;Drawings & Prints;1974;2003;9
 Peter Moore;American;male;1932;1993;61;47;2;0;7;40;0;0;0;0;0;Drawings & Prints;1963;1976;10
-Bruce Nauman;American;male;1941;0;83;102;4;0;0;55;14;32;1;0;0;Drawings & Prints;1965;2016;27
 Charles Nègre;French;male;1820;1880;60;32;1;0;0;0;0;0;32;0;0;Photography;1850;1860;10
 Valentin Jeck;Swiss;male;1964;0;60;45;1;45;0;0;0;0;0;0;0;Architecture & Design;2016;2017;2
 Louise Nevelson;American;female;1899;1988;89;83;3;1;0;75;7;0;0;0;0;Drawings & Prints;1954;1983;16
 Arnold Newman;American;male;1918;2006;88;47;1;0;0;0;0;0;47;0;0;Photography;1933;1957;16
 Barnett Newman;American;male;1905;1970;65;62;2;0;0;54;8;0;0;0;0;Drawings & Prints;1944;1976;15
-Christopher Cozier;Trinidad and Tobagonian;;1959;0;65;269;1;0;0;269;0;0;0;0;0;Drawings & Prints;2006;2006;1
-Nicholas Nixon;American;male;1947;0;77;213;1;0;0;0;0;0;213;0;0;Photography;1973;2017;45
 Isamu Noguchi;American;male;1904;1988;84;29;3;12;0;3;14;0;0;0;0;Painting & Sculpture;1931;1977;20
 Sidney Nolan;Australian;male;1917;1992;75;63;2;0;0;62;1;0;0;0;0;Drawings & Prints;1955;1971;5
 Emil Nolde;German;male;1867;1956;89;76;2;0;0;73;3;0;0;0;0;Drawings & Prints;1905;1930;20
@@ -665,31 +538,21 @@ Guillermo Núñez;Chilean;male;1930;0;94;26;1;0;0;26;0;0;0;0;0;Drawings & Prints
 Timothy O'Sullivan;American;male;1840;1882;42;99;1;0;0;0;0;0;99;0;0;Photography;1862;1873;8
 Raj Rewal;Indian;male;1934;0;90;49;1;49;0;0;0;0;0;0;0;Architecture & Design;1967;2003;5
 Albert Oehlen;German;male;1954;0;70;63;2;0;0;62;1;0;0;0;0;Drawings & Prints;1982;2007;13
-Pope.L;American;male;1955;2023;68;326;2;0;0;217;0;109;0;0;0;Drawings & Prints;1978;2019;22
-Claes Oldenburg;American;male;1929;2022;93;124;4;2;6;106;10;0;0;0;0;Drawings & Prints;1958;1997;29
-Black Flag;;;0;0;2024;31;1;0;0;31;0;0;0;0;0;Drawings & Prints;1978;1996;12
 Koshiro Onchi;Japanese;male;1891;1955;64;27;1;0;0;27;0;0;0;0;0;Drawings & Prints;1934;1957;7
-Yoko Ono;American;female;1933;0;91;127;3;0;32;94;1;0;0;0;0;Drawings & Prints;1961;2017;25
 Dennis Oppenheim;American;male;1938;2011;73;97;4;0;0;17;3;61;16;0;0;Media and Performance;1968;1977;8
 Meret Oppenheim;Swiss;female;1913;1985;72;34;2;0;0;31;3;0;0;0;0;Drawings & Prints;1932;1985;7
 José Clemente Orozco;Mexican;male;1883;1949;66;42;2;0;0;38;4;0;0;0;0;Drawings & Prints;1923;1948;11
 George Ortman;American;male;1926;2015;89;30;3;1;0;28;1;0;0;0;0;Drawings & Prints;1950;1967;5
 Alejandro Otero;Venezuelan;male;1921;1990;69;25;2;0;0;17;8;0;0;0;0;Drawings & Prints;1947;1976;10
 Bill Owens;American;male;1938;0;86;20;1;0;0;0;0;0;20;0;0;Photography;1970;1976;6
-Nam June Paik;American;male;1932;2006;74;178;5;0;36;121;2;18;1;0;0;Drawings & Prints;1961;2003;29
 Mimmo Paladino;Italian;male;1948;0;76;35;3;1;0;33;1;0;0;0;0;Drawings & Prints;1980;2015;8
 Julio Palazuelos;Chilean;male;1931;2014;83;25;1;0;0;25;0;0;0;0;0;Drawings & Prints;1963;1963;1
 Blinky Palermo;German;male;1943;1977;34;48;2;0;0;45;3;0;0;0;0;Drawings & Prints;1965;1976;9
-Eduardo Paolozzi;British;male;1924;2005;81;266;3;2;0;261;3;0;0;0;0;Drawings & Prints;1944;1973;13
 Tod Papageorge;American;male;1940;0;84;35;1;0;0;0;0;0;35;0;0;Photography;1966;1989;12
 Martin Parr;British;male;1952;0;72;59;2;0;0;1;0;0;58;0;0;Photography;1970;2010;21
 Jürgen Partenheimer;German;male;1947;0;77;48;1;0;0;48;0;0;0;0;0;Drawings & Prints;1983;1991;5
-Jules Pascin;American;male;1885;1930;45;352;2;0;0;350;2;0;0;0;0;Drawings & Prints;1904;1968;24
-Benjamin Patterson;American;male;1934;2016;82;129;2;0;18;111;0;0;0;0;0;Drawings & Prints;1960;2004;16
 Henry Pearson;American;male;1914;2006;92;48;2;0;0;47;1;0;0;0;0;Drawings & Prints;1960;1969;7
 Max Pechstein;German;male;1881;1955;74;79;2;1;0;78;0;0;0;0;0;Drawings & Prints;1908;1923;12
-A.R. Penck (Ralf Winkler);German;male;1939;2017;78;156;2;0;0;155;1;0;0;0;0;Drawings & Prints;1967;1989;19
-Irving Penn;American;male;1917;2009;92;109;1;0;0;0;0;0;109;0;0;Photography;1932;2006;31
 Giuseppe Penone;Italian;male;1947;0;77;74;3;0;0;69;3;0;2;0;0;Drawings & Prints;1969;2001;10
 Gilles Peress;French;male;1946;0;78;61;1;0;0;0;0;0;61;0;0;Photography;1971;1994;10
 Gabor Peterdi;American;male;1915;2001;86;44;1;0;0;44;0;0;0;0;0;Drawings & Prints;1930;1967;11
@@ -698,21 +561,17 @@ Ellen Phelan;American;female;1943;0;81;20;2;0;0;19;1;0;0;0;0;Drawings & Prints;1
 Tom Phillips;British;male;1937;0;87;35;2;1;0;34;0;0;0;0;0;Drawings & Prints;1970;1984;5
 Jean Piaubert;French;male;1900;2002;102;34;1;0;0;34;0;0;0;0;0;Drawings & Prints;1950;1950;1
 Francis Picabia;French;male;1879;1953;74;87;2;0;0;78;9;0;0;0;0;Drawings & Prints;1901;1953;21
-Pablo Picasso;Spanish;male;1881;1973;92;1323;3;33;0;1218;72;0;0;0;0;Drawings & Prints;1901;1979;70
 Otto Piene;German;male;1928;2014;86;43;3;0;0;39;3;0;1;0;0;Drawings & Prints;1958;1969;8
 John Piper;British;male;1903;1992;89;45;2;0;0;44;1;0;0;0;0;Drawings & Prints;1918;1950;8
-Sigmar Polke;German;male;1941;2010;69;180;4;1;0;130;7;0;42;0;0;Drawings & Prints;1963;2004;31
 Jackson Pollock;American;male;1912;1956;44;87;2;0;0;70;17;0;0;0;0;Drawings & Prints;1934;1967;20
 Arnaldo Pomodoro;Italian;male;1926;0;98;34;2;0;0;33;1;0;0;0;0;Drawings & Prints;1958;1993;10
 Giò Pomodoro;Italian;male;1930;2002;72;22;1;0;0;22;0;0;0;0;0;Drawings & Prints;1962;1967;5
 Liubov Popova;Russian;female;1889;1924;35;27;2;0;0;25;2;0;0;0;0;Drawings & Prints;1914;1924;8
 Eliot Porter;American;male;1901;1990;89;89;1;0;0;0;0;0;89;0;0;Photography;1934;1978;21
 Liliana Porter;American;female;1941;0;83;34;3;0;0;30;0;1;3;0;0;Drawings & Prints;1964;2007;11
-José Guadalupe Posada;Mexican;male;1852;1913;61;199;1;0;0;199;0;0;0;0;0;Drawings & Prints;1870;1942;27
 Rudy Pozzatti;American;male;1925;2021;96;68;1;0;0;68;0;0;0;0;0;Drawings & Prints;1950;1964;4
 Mario Prassinos;French;male;1916;1985;69;53;1;0;0;53;0;0;0;0;0;Drawings & Prints;1946;1965;4
 James Prestini;American;male;1908;1993;85;57;1;57;0;0;0;0;0;0;0;Architecture & Design;1933;1951;6
-Zlatko Prica;;;0;0;2024;42;1;0;0;42;0;0;0;0;0;Drawings & Prints;1981;1981;1
 Ken Price;American;male;1935;2012;77;55;2;0;0;45;10;0;0;0;0;Drawings & Prints;1960;2008;17
 Richard Prince;American;male;1949;0;75;32;3;0;0;29;1;0;2;0;0;Drawings & Prints;1978;2012;18
 Patrick Procktor;British;male;1936;2003;67;20;2;1;0;19;0;0;0;0;0;Drawings & Prints;1966;1981;7
@@ -723,17 +582,12 @@ Markus Raetz;Swiss;male;1941;2020;79;54;3;1;0;52;1;0;0;0;0;Drawings & Prints;196
 Arnulf Rainer;Austrian;male;1929;0;95;41;2;0;0;39;2;0;0;0;0;Drawings & Prints;1961;1997;14
 Cecilia Vicuña;Chilean;female;1948;0;76;31;3;0;0;29;1;1;0;0;0;Drawings & Prints;1978;1980;2
 Ranjani Shettar;Indian;female;1977;0;47;20;2;0;0;19;1;0;0;0;0;Drawings & Prints;2005;2021;3
-Robert Rauschenberg;American;male;1925;2008;83;385;4;5;0;361;14;0;5;0;0;Drawings & Prints;1949;2008;51
 Omar Rayo;Colombian;male;1928;2010;82;55;1;0;0;55;0;0;0;0;0;Drawings & Prints;1943;1973;9
-Odilon Redon;French;male;1840;1916;76;296;2;0;0;271;25;0;0;0;0;Drawings & Prints;1865;1938;42
 Ruth Reeves;American;female;1892;1966;74;23;1;0;0;23;0;0;0;0;0;Drawings & Prints;1934;1934;1
 Paula Rego;British;female;1935;2022;87;22;1;0;0;22;0;0;0;0;0;Drawings & Prints;1989;2020;6
-Jesse Reichek;American;male;1916;2005;89;103;1;0;0;103;0;0;0;0;0;Drawings & Prints;1961;1966;3
 Ad Reinhardt;American;male;1913;1967;54;39;2;0;0;29;10;0;0;0;0;Drawings & Prints;1938;1968;14
 Edda Renouf;American;female;1943;0;81;29;2;0;0;27;2;0;0;0;0;Drawings & Prints;1973;1977;4
-Chow and Lin;;;0;0;2024;50;1;50;0;0;0;0;0;0;0;Architecture & Design;2020;2020;1
 Charles Reutlinger;French;male;1816;1880;64;21;1;0;0;0;0;0;21;0;0;Photography;1867;1868;2
-Gerhard Richter;German;male;1932;0;92;136;2;0;0;118;18;0;0;0;0;Drawings & Prints;1963;2015;27
 James Riddle;American;male;1933;0;91;44;2;0;24;20;0;0;0;0;0;Fluxus Collection;1964;1982;9
 Richard Riemerschmid;German;male;1868;1957;89;34;1;34;0;0;0;0;0;0;0;Architecture & Design;1898;1936;13
 J.J.J. (Jean-Jacques-Joachim) Rigal;French;male;1926;1997;71;33;1;0;0;33;0;0;0;0;0;Drawings & Prints;1956;1959;3
@@ -741,29 +595,19 @@ Jean Tschumi;Swiss;male;1904;1962;58;43;1;43;0;0;0;0;0;0;0;Architecture & Design
 Jacob August Riis;American;male;1849;1914;65;22;1;0;0;0;0;0;22;0;0;Photography;1888;1895;4
 Bridget Riley;British;female;1931;0;93;20;2;0;0;17;3;0;0;0;0;Drawings & Prints;1962;2002;11
 Diego Rivera;Mexican;male;1886;1957;71;94;2;0;0;90;4;0;0;0;0;Drawings & Prints;1906;1938;13
-Larry Rivers;American;male;1923;2002;79;167;3;2;0;160;5;0;0;0;0;Drawings & Prints;1952;2005;26
-Destroy All Monsters;;;0;0;2024;67;1;0;0;67;0;0;0;0;0;Drawings & Prints;1976;2009;7
 Dorothea Rockburne;American;female;1932;0;92;30;2;0;0;27;3;0;0;0;0;Drawings & Prints;1970;1982;8
-Aleksandr Rodchenko;Russian;male;1891;1956;65;292;4;54;0;184;3;0;51;0;0;Drawings & Prints;1918;1941;24
 Stefen Chow;Malaysian;male;1980;0;44;50;1;50;0;0;0;0;0;0;0;Architecture & Design;2020;2020;1
 Huiyi Lin;Singaporean;female;1980;0;44;50;1;50;0;0;0;0;0;0;0;Architecture & Design;2020;2020;1
 Auguste Rodin;French;male;1840;1917;77;44;2;0;0;30;14;0;0;0;0;Drawings & Prints;1855;1971;14
 Christian Rohlfs;German;male;1849;1938;89;76;1;0;0;76;0;0;0;0;0;Drawings & Prints;1908;1935;21
 K.O.S. (Kids of Survival);American;;1982;0;42;46;2;0;0;45;1;0;0;0;0;Drawings & Prints;1985;1997;6
-Thomas Roma;American;male;1950;0;74;104;1;0;0;0;0;0;104;0;0;Photography;1974;2005;14
-James Rosenquist;American;male;1933;2017;84;108;3;2;0;100;6;0;0;0;0;Drawings & Prints;1962;2012;32
 Seymour Rosofsky;American;male;1924;1981;57;30;1;0;0;30;0;0;0;0;0;Drawings & Prints;1960;1968;3
-Judith Joy Ross;American;female;1946;0;78;106;1;0;0;0;0;0;106;0;0;Photography;1982;2000;16
-Dieter Roth;Swiss;male;1930;1998;68;266;3;2;0;260;4;0;0;0;0;Drawings & Prints;1961;1997;26
 Susan Rothenberg;American;female;1945;2020;75;55;2;0;0;47;8;0;0;0;0;Drawings & Prints;1974;2008;19
 Arthur Rothstein;American;male;1915;1985;70;26;1;0;0;0;0;0;26;0;0;Photography;1935;1963;6
-Georges Rouault;French;male;1871;1958;87;633;2;0;0;631;2;0;0;0;0;Drawings & Prints;1905;1948;27
 Pierre Roy;French;male;1880;1950;70;47;2;0;0;44;3;0;0;0;0;Drawings & Prints;1920;1930;6
-Olga Rozanova;Russian;female;1886;1918;32;263;2;0;0;262;1;0;0;0;0;Drawings & Prints;1913;1917;5
 Paul Lewis;American;male;1966;0;58;27;1;27;0;0;0;0;0;0;0;Architecture & Design;2010;2010;1
 Allen Ruppersberg;American;male;1944;0;80;66;3;0;0;41;2;0;23;0;0;Drawings & Prints;1971;2014;14
 David J. Lewis;American;male;1966;0;58;27;1;27;0;0;0;0;0;0;0;Architecture & Design;2010;2010;1
-Edward Ruscha;American;male;1937;0;87;255;3;1;0;247;7;0;0;0;0;Drawings & Prints;1960;2021;35
 Anne Ryan;American;female;1889;1954;65;37;1;0;0;37;0;0;0;0;0;Drawings & Prints;1943;1954;10
 Robert Ryman;American;male;1930;2019;89;50;2;0;0;41;9;0;0;0;0;Drawings & Prints;1959;2003;20
 Betye Saar;American;female;1926;0;98;47;2;0;0;44;3;0;0;0;0;Drawings & Prints;1960;2005;12
@@ -772,55 +616,40 @@ Takako Saito;American;female;1929;0;95;64;3;3;23;38;0;0;0;0;0;Drawings & Prints;
 Ibrahim El-Salahi;Sudanese;male;1930;0;94;52;2;0;0;50;2;0;0;0;0;Drawings & Prints;1964;2016;5
 Axel Salto;Danish;male;1889;1961;72;34;1;0;0;34;0;0;0;0;0;Drawings & Prints;1889;1940;10
 Lucas Samaras;American;male;1936;2024;88;100;5;1;0;36;2;1;60;0;0;Photography;1960;2010;21
-Fred Sandback;American;male;1943;2003;60;135;2;0;0;134;1;0;0;0;0;Drawings & Prints;1967;2001;16
 Willem Jacob Henri Berend Sandberg;Dutch;male;1897;1984;87;38;1;38;0;0;0;0;0;0;0;Architecture & Design;1947;1980;15
-August Sander;German;male;1876;1964;88;750;1;0;0;0;0;0;750;0;0;Photography;1892;1954;44
 Richard Sapper;German;male;1932;2015;83;23;1;23;0;0;0;0;0;0;0;Architecture & Design;1962;1995;11
 Haegue Yang;Korean;female;1971;0;53;23;2;0;0;22;1;0;0;0;0;Drawings & Prints;2001;2013;6
 Koichi Sato;Japanese;male;1944;0;80;26;1;26;0;0;0;0;0;0;0;Architecture & Design;1972;1994;15
-Antonio Saura;Spanish;male;1930;1998;68;118;1;0;0;118;0;0;0;0;0;Drawings & Prints;1959;1989;10
 Bezalel Schatz;Israeli;male;1913;0;111;47;1;0;0;47;0;0;0;0;0;Drawings & Prints;1947;1947;1
 Oskar Schlemmer;German;male;1888;1943;55;31;3;3;0;27;1;0;0;0;0;Drawings & Prints;1913;1938;9
 Edwin Schlossberg;American;male;1945;0;79;26;1;0;0;26;0;0;0;0;0;Drawings & Prints;1968;2014;4
 Klaus Groh;Polish;;1936;0;88;48;1;0;48;0;0;0;0;0;0;Fluxus Collection;1975;1987;8
 Peter Schlumbohm;American;male;1896;1962;66;21;1;21;0;0;0;0;0;0;0;Architecture & Design;1941;1962;13
 Joost Schmidt;German;male;1893;1948;55;21;2;20;0;1;0;0;0;0;0;Architecture & Design;1923;1934;8
-Michael Schmidt;German;male;1945;2014;69;224;1;0;0;0;0;0;224;0;0;Photography;1965;1999;12
 Karl Schmidt-Rottluff;German;male;1884;1976;92;68;3;1;0;65;2;0;0;0;0;Drawings & Prints;1908;1930;16
-János Kender;Hungarian;male;1937;2009;72;653;1;0;0;0;0;0;653;0;0;Photography;1960;1971;3
 Roe Ethridge;American;male;1969;0;55;32;1;0;0;0;0;0;32;0;0;Photography;2003;2011;6
 Rudolf Schoofs;German;male;1932;2009;77;25;1;0;0;25;0;0;0;0;0;Drawings & Prints;1960;1968;6
 John Schott;American;male;1944;0;80;27;1;0;0;0;0;0;27;0;0;Photography;1973;1973;1
 Karl Schrag;American;male;1912;1995;83;40;1;0;0;40;0;0;0;0;0;Drawings & Prints;1941;1993;10
 Paul Schuitema;Dutch;male;1897;1973;76;33;3;31;0;1;0;0;1;0;0;Architecture & Design;1923;1969;14
-Thomas Schütte;German;male;1954;0;70;271;2;0;0;269;2;0;0;0;0;Drawings & Prints;1981;2012;13
 Aubrey Schwartz;American;male;1928;0;96;25;1;0;0;25;0;0;0;0;0;Drawings & Prints;1960;1962;3
-Kurt Schwitters;German;male;1887;1948;61;166;3;106;0;58;2;0;0;0;0;Architecture & Design;1918;1993;23
 Sean Scully;American;male;1945;0;79;26;2;0;0;23;3;0;0;0;0;Drawings & Prints;1984;2002;9
 George Segal;American;male;1924;2000;76;27;2;0;0;24;3;0;0;0;0;Drawings & Prints;1962;1987;9
-André Dunoyer de Segonzac;French;male;1884;1974;90;279;1;0;0;279;0;0;0;0;0;Drawings & Prints;1910;1968;18
 Antonio Segui;Argentine;male;1934;2022;88;26;2;0;0;25;1;0;0;0;0;Drawings & Prints;1963;1978;9
 Kurt Seligmann;American;male;1900;1962;62;25;2;0;0;24;1;0;0;0;0;Drawings & Prints;1934;1960;9
 Luis Seoane;Argentine;male;1910;1979;69;33;1;0;0;33;0;0;0;0;0;Drawings & Prints;1925;1966;4
 Richard Serra;American;male;1938;0;86;88;4;0;0;43;17;2;26;0;0;Drawings & Prints;1967;2021;20
-Ben Shahn;American;male;1898;1969;71;201;4;15;0;156;3;0;27;0;0;Drawings & Prints;1929;1968;34
 Joel Shapiro;American;male;1941;0;83;44;2;0;0;31;13;0;0;0;0;Drawings & Prints;1969;2001;16
 Charles Sheeler;American;male;1883;1965;82;40;3;0;0;9;2;0;29;0;0;Photography;1914;1952;23
 Peter Shelton;American;male;1951;0;73;20;2;0;0;19;1;0;0;0;0;Drawings & Prints;1988;1994;2
-Cindy Sherman;American;female;1954;0;70;103;2;0;0;6;0;0;97;0;0;Photography;1975;2008;17
 Jules Janssen;French;male;1824;1907;83;31;1;0;0;0;0;0;31;0;0;Photography;1890;1894;2
-Mieko Shiomi;Japanese;female;1938;0;86;146;2;0;19;127;0;0;0;0;0;Drawings & Prints;1963;1994;18
 Emory Douglas;American;male;1943;0;81;30;1;30;0;0;0;0;0;0;0;Architecture & Design;1969;1970;2
 Melissa Shook;American;female;1939;2020;81;37;1;0;0;0;0;0;37;0;0;Photography;1972;1974;3
-Stephen Shore;American;male;1947;0;77;199;1;0;0;0;0;0;199;0;0;Photography;1967;2013;25
 Walter Richard Sickert;British;male;1860;1942;82;64;2;0;0;62;2;0;0;0;0;Drawings & Prints;1884;1935;26
 Irene Siegel;American;female;1932;0;92;24;1;0;0;24;0;0;0;0;0;Drawings & Prints;1967;1967;1
 David Alfaro Siqueiros;Mexican;male;1896;1974;78;41;2;0;0;35;6;0;0;0;0;Drawings & Prints;1931;1968;12
-Aaron Siskind;American;male;1903;1991;88;135;1;0;0;0;0;0;135;0;0;Photography;1932;1988;30
 Max Slevogt;German;male;1868;1932;64;22;1;0;0;22;0;0;0;0;0;Drawings & Prints;1905;1928;8
-John Sloan;American;male;1871;1951;80;124;2;1;0;123;0;0;0;0;0;Drawings & Prints;1888;1931;36
 David Smith;American;male;1906;1965;59;24;3;4;0;10;10;0;0;0;0;Drawings & Prints;1938;1963;14
-Kiki Smith;American;female;1954;0;70;181;3;0;0;177;2;0;2;0;0;Drawings & Prints;1985;2020;28
 Leon Polk Smith;American;male;1906;1996;90;22;2;0;0;20;2;0;0;0;0;Drawings & Prints;1958;1980;5
 W. Eugene Smith;American;male;1918;1978;60;45;2;1;0;0;0;0;44;0;0;Photography;1944;1972;14
 Robert Smithson;American;male;1938;1973;35;77;4;0;0;67;4;5;1;0;0;Drawings & Prints;1962;2005;14
@@ -835,24 +664,19 @@ Michael Spano;American;male;1949;0;75;21;1;0;0;0;0;0;21;0;0;Photography;1977;200
 Serge Spitzer;American;male;1951;2012;61;27;1;0;0;27;0;0;0;0;0;Drawings & Prints;1983;1994;3
 Daniel Spoerri;Swiss;male;1930;0;94;92;3;0;38;53;1;0;0;0;0;Drawings & Prints;1960;1982;16
 Franciszek Starowieyski;Polish;male;1930;2009;79;38;2;35;0;0;0;0;0;3;0;Architecture & Design;1964;1985;18
-Edward Steichen;American;male;1879;1973;94;300;2;0;0;1;0;0;299;0;0;Photography;1895;1961;44
 Walter Stein;American;male;1924;0;100;38;1;0;0;38;0;0;0;0;0;Drawings & Prints;1960;1967;2
 Saul Steinberg;American;male;1914;1999;85;44;3;8;0;35;0;0;1;0;0;Drawings & Prints;1945;1990;15
 Ralph Steiner;American;male;1899;1986;87;33;1;0;0;0;0;0;33;0;0;Photography;1914;1960;11
-Théophile-Alexandre Steinlen;French;male;1859;1923;64;180;2;4;0;176;0;0;0;0;0;Drawings & Prints;1885;1909;18
 Mark Steinmetz;American;male;1961;0;63;23;1;0;0;0;0;0;23;0;0;Photography;1986;2005;14
 Pat Steir;American;female;1940;0;84;43;2;0;0;40;3;0;0;0;0;Drawings & Prints;1974;2012;12
-Frank Stella;American;male;1936;0;88;161;3;2;0;134;25;0;0;0;0;Drawings & Prints;1958;1998;27
 Vladimir Stenberg;Russian;male;1899;1982;83;42;3;17;0;24;1;0;0;0;0;Drawings & Prints;1917;1973;8
 Varvara Stepanova;Russian;female;1894;1958;64;77;3;2;0;74;1;0;0;0;0;Drawings & Prints;1918;1999;24
 Hedda Sterne;American;female;1910;0;114;36;2;0;0;34;2;0;0;0;0;Drawings & Prints;1950;1981;6
 Joel Sternfeld;American;male;1944;0;80;71;1;0;0;0;0;0;71;0;0;Photography;1978;1990;10
 Florine Stettheimer;American;female;1871;1944;73;57;2;0;0;55;2;0;0;0;0;Drawings & Prints;1912;1933;3
-Alfred Stieglitz;American;male;1864;1946;82;171;2;1;0;0;0;0;170;0;0;Photography;1887;1937;40
 William James Stillman;American;male;1828;1901;73;27;1;0;0;0;0;0;27;0;0;Photography;1869;1870;2
 Gunta Stölzl;Swiss;female;1897;1983;86;57;1;57;0;0;0;0;0;0;0;Architecture & Design;1920;1966;19
 Sandra Blow;Mexican;female;1990;0;34;20;1;0;0;0;0;0;20;0;0;Photography;2017;2020;4
-Paul Strand;American;male;1890;1976;86;118;1;0;0;0;0;0;118;0;0;Photography;1915;1976;30
 James Strombotne;American;male;1934;0;90;36;1;0;0;36;0;0;0;0;0;Drawings & Prints;1963;1968;3
 Jan Stussy;American;male;1921;1990;69;41;1;0;0;41;0;0;0;0;0;Drawings & Prints;1970;1970;1
 Susan Kare;American;female;1954;0;70;32;1;32;0;0;0;0;0;0;0;Architecture & Design;1982;1983;3
@@ -861,21 +685,16 @@ Donald Sultan;American;male;1951;0;73;80;2;0;0;79;1;0;0;0;0;Drawings & Prints;19
 Larry Sultan;American;male;1946;2009;63;52;1;0;0;0;0;0;52;0;0;Photography;1943;1987;5
 Carol Summers;American;male;1925;0;99;27;1;0;0;27;0;0;0;0;0;Drawings & Prints;1940;1967;9
 Léopold Survage;French;male;1879;1968;89;71;1;0;0;71;0;0;0;0;0;Drawings & Prints;1913;1968;5
-Ladislav Sutnar;American;male;1897;1976;79;106;2;101;0;5;0;0;0;0;0;Architecture & Design;1929;1976;29
 Luke Swank;American;male;1890;1944;54;76;1;0;0;0;0;0;76;0;0;Photography;1930;1931;2
 Sophie Taeuber-Arp;Swiss;female;1889;1943;54;35;2;0;0;32;3;0;0;0;0;Drawings & Prints;1917;1953;15
 Peter Takal;American;male;1905;1995;90;24;1;0;0;24;0;0;0;0;0;Drawings & Prints;1920;1964;6
 Jiro Takamatsu;Japanese;male;1936;1998;62;41;3;0;0;39;1;0;1;0;0;Drawings & Prints;1964;1983;13
 René Pierre Tal-Coat;French;male;1905;1985;80;28;2;0;0;26;2;0;0;0;0;Drawings & Prints;1920;1975;5
 Rufino Tamayo;Mexican;male;1899;1991;92;77;2;0;0;73;4;0;0;0;0;Drawings & Prints;1938;1984;11
-Yves Tanguy;American;male;1900;1955;55;158;2;0;0;147;11;0;0;0;0;Drawings & Prints;1925;1976;25
 Dorothea Tanning;American;female;1910;2012;102;26;2;0;0;23;3;0;0;0;0;Drawings & Prints;1947;2005;8
-Antoni Tàpies;Spanish;male;1923;2012;89;171;3;0;0;167;3;0;0;1;0;Drawings & Prints;1956;1992;23
 Vladimir Tatlin;Russian;male;1885;1953;68;93;1;0;0;93;0;0;0;0;0;Drawings & Prints;1912;1929;7
-Pavel Tchelitchew;American;male;1898;1957;59;160;2;0;0;156;4;0;0;0;0;Drawings & Prints;1918;1953;28
 Eduardo Terrazas;Mexican;male;1936;0;88;37;1;37;0;0;0;0;0;0;0;Architecture & Design;1967;1968;3
 Jerry L. Thompson;American;male;1945;0;79;24;1;0;0;0;0;0;24;0;0;Photography;1972;1985;4
-John Thomson;British;male;1837;1921;84;264;1;0;0;0;0;0;264;0;0;Photography;1873;1877;3
 Louis Comfort Tiffany;American;male;1848;1933;85;35;1;35;0;0;0;0;0;0;0;Architecture & Design;1895;1921;13
 Walasse Ting;American;male;1929;2010;81;56;1;0;0;56;0;0;0;0;0;Drawings & Prints;1944;1976;6
 Jean Tinguely;Swiss;male;1925;1991;66;35;3;1;0;29;5;0;0;0;0;Drawings & Prints;1954;1989;13
@@ -883,49 +702,33 @@ Gérard Titus-Carmel;French;male;1942;0;82;21;1;0;0;21;0;0;0;0;0;Drawings & Prin
 Mark Tobey;American;male;1890;1976;86;22;2;0;0;21;1;0;0;0;0;Drawings & Prints;1916;1976;10
 Shomei Tomatsu;Japanese;male;1930;2012;82;40;1;0;0;0;0;0;40;0;0;Photography;1957;1991;8
 Roland Topor;French;male;1938;1997;59;32;2;0;26;6;0;0;0;0;0;Fluxus Collection;1966;1982;5
-Henri de Toulouse-Lautrec;French;male;1864;1901;37;231;1;0;0;231;0;0;0;0;0;Drawings & Prints;1880;1947;21
-Mateo López;Colombian;male;1978;0;46;131;1;0;0;131;0;0;0;0;0;Drawings & Prints;2017;2017;2
 Hugh Townley;American;male;1923;2008;85;59;1;0;0;59;0;0;0;0;0;Drawings & Prints;1964;1969;2
-Rosemarie Trockel;German;female;1952;0;72;105;4;0;0;100;3;1;1;0;0;Drawings & Prints;1978;2015;26
 Georg Trump;German;male;1896;1985;89;69;2;68;0;1;0;0;0;0;0;Architecture & Design;1925;1953;11
 Jan Tschichold;Swiss;male;1902;1974;72;35;2;34;0;1;0;0;0;0;0;Architecture & Design;1920;1955;15
 Augustin Tschinkel;Czech;male;1905;0;119;46;1;46;0;0;0;0;0;0;0;Architecture & Design;1930;1940;7
 Rafael Tufiño;Puerto Rican;male;1922;2008;86;24;2;5;0;19;0;0;0;0;0;Drawings & Prints;1937;1968;7
 Earl S. Tupper;American;male;1907;1983;76;39;1;39;0;0;0;0;0;0;0;Architecture & Design;1945;1956;5
 James Turrell;American;male;1943;0;81;29;2;0;0;27;2;0;0;0;0;Drawings & Prints;1969;2016;6
-Richard Tuttle;American;male;1941;0;83;192;2;0;0;184;8;0;0;0;0;Drawings & Prints;1965;2016;33
 Cy Twombly;American;male;1928;2011;83;45;3;1;0;32;12;0;0;0;0;Drawings & Prints;1952;2005;18
 Edgard Tytgat;Belgian;male;1879;1957;78;43;1;0;0;43;0;0;0;0;0;Drawings & Prints;1913;1949;4
 Raoul Ubac;Belgian;male;1910;1985;75;38;4;2;0;33;1;0;2;0;0;Drawings & Prints;1938;1967;9
 Günther Uecker;German;male;1930;0;94;21;2;0;0;20;1;0;0;0;0;Drawings & Prints;1964;2014;5
 Jerry Uelsmann;American;male;1934;2022;88;27;1;0;0;0;0;0;27;0;0;Photography;1960;1978;12
 Doris Ulmann;American;female;1884;1934;50;95;1;0;0;0;0;0;95;0;0;Photography;1925;1930;4
-Unidentified Designer;;;0;0;2024;228;2;226;0;0;0;0;0;2;0;Architecture & Design;1900;2005;49
-Unidentified Designer;German;;0;0;2024;48;1;48;0;0;0;0;0;0;0;Architecture & Design;1908;1972;21
-Unidentified Designer;Italian;;0;0;2024;29;1;29;0;0;0;0;0;0;0;Architecture & Design;1908;1992;19
-Unidentified Designer;British;;0;0;2024;32;1;32;0;0;0;0;0;0;0;Architecture & Design;1830;1979;10
-Unidentified Designer;American;;0;0;2024;30;1;30;0;0;0;0;0;0;0;Architecture & Design;1930;1979;14
 Maurice Utrillo;French;male;1883;1955;72;61;2;0;0;60;1;0;0;0;0;Drawings & Prints;1898;1956;8
 Félix Vallotton;French;male;1865;1925;60;76;2;1;0;75;0;0;0;0;0;Drawings & Prints;1891;1918;13
 Daniel Joseph Martinez;American;male;1957;0;67;24;1;0;0;24;0;0;0;0;0;Drawings & Prints;2004;2004;1
 Theo van Doesburg;Dutch;male;1883;1931;48;53;3;24;0;25;4;0;0;0;0;Drawings & Prints;1915;1953;15
-Kees van Dongen;French;male;1877;1968;91;123;2;0;0;122;1;0;0;0;0;Drawings & Prints;1908;1957;6
 Diederick Van Kleef;Dutch;male;1954;0;70;24;1;0;0;24;0;0;0;0;0;Drawings & Prints;1984;1988;2
 William Vandivert;American;male;1912;1989;77;72;1;0;0;0;0;0;72;0;0;Photography;1927;1940;2
 Deana Lawson;American;female;1979;0;45;34;1;0;0;0;0;0;34;0;0;Photography;2009;2021;4
-Various Artists;Nationality unknown;;0;0;2024;38;2;1;0;37;0;0;0;0;0;Drawings & Prints;1898;1977;2
-Various Artists;American;;0;0;2024;24;1;0;0;24;0;0;0;0;0;Drawings & Prints;1936;1999;20
-Various Artists;Russian;;0;0;2024;133;1;0;0;133;0;0;0;0;0;Drawings & Prints;1912;1969;8
 Victor Vasarely;French;male;1908;1997;89;98;3;3;0;91;4;0;0;0;0;Drawings & Prints;1949;1983;14
-Ben Vautier;French;male;1935;0;89;360;2;0;36;324;0;0;0;0;0;Drawings & Prints;1958;2011;30
 Bram van Velde;Dutch;male;1895;1981;86;24;1;0;0;24;0;0;0;0;0;Drawings & Prints;1964;1978;7
 Bernar Venet;French;male;1941;0;83;21;2;0;0;19;2;0;0;0;0;Drawings & Prints;1967;2000;7
 Esteban Vicente;American;male;1903;2001;98;23;3;1;0;20;2;0;0;0;0;Drawings & Prints;1956;1970;7
 Roger Vieillard;French;male;1907;1989;82;60;1;0;0;60;0;0;0;0;0;Drawings & Prints;1937;1957;5
 Romas Viesulas;American;male;1918;1986;68;26;1;0;0;26;0;0;0;0;0;Drawings & Prints;1957;1965;3
 Massimo Vignelli;Italian;male;1931;2014;83;71;1;71;0;0;0;0;0;0;0;Architecture & Design;1957;2012;20
-Jacques Villon;French;male;1875;1963;88;266;2;0;0;261;5;0;0;0;0;Drawings & Prints;1890;1961;49
-Lauretta Vinciarelli;Italian;female;1943;2012;69;124;1;124;0;0;0;0;0;0;0;Architecture & Design;1973;2006;17
 Carel Visser;Dutch;male;1928;2015;87;20;1;0;0;20;0;0;0;0;0;Drawings & Prints;1970;1986;6
 Maurice de Vlaminck;French;male;1876;1958;82;98;2;0;0;97;1;0;0;0;0;Drawings & Prints;1903;1944;14
 Wolf Vostell;German;male;1932;1998;66;68;3;0;8;51;0;9;0;0;0;Drawings & Prints;1958;1989;15
@@ -935,47 +738,39 @@ Kiyoji Otsuji;Japanese;male;1923;2001;78;22;1;0;0;0;0;0;22;0;0;Photography;1953;
 Wilhelm Wagenfeld;German;male;1900;1990;90;39;1;39;0;0;0;0;0;0;0;Architecture & Design;1924;1961;15
 Ludwig Hoffenreich;Austrian;;1902;1975;73;35;1;0;0;0;0;0;35;0;0;Photography;1965;1965;1
 John Walker;British;male;1939;0;85;52;2;0;0;46;6;0;0;0;0;Drawings & Prints;1970;2002;11
-Abraham Walkowitz;American;male;1878;1965;87;111;2;0;0;110;1;0;0;0;0;Drawings & Prints;1900;1940;19
-Andy Warhol;American;male;1928;1987;59;305;6;10;0;241;20;1;1;32;0;Drawings & Prints;1946;1998;34
-Robert Watts;American;male;1923;1988;65;300;3;0;23;275;2;0;0;0;0;Drawings & Prints;1956;1989;26
+Hani Rashid;Canadian;male;1958;0;66;27;1;27;0;0;0;0;0;0;0;Architecture & Design;1994;2011;5
+Lise Anne Couture;Canadian;female;1959;0;65;27;1;27;0;0;0;0;0;0;0;Architecture & Design;1994;2011;5
 June Wayne;American;female;1918;2011;93;66;1;0;0;66;0;0;0;0;0;Drawings & Prints;1952;2009;14
-Max Weber;American;male;1881;1961;80;178;2;0;0;174;4;0;0;0;0;Drawings & Prints;1896;1952;22
 William Frederick Weege III;American;male;1935;2020;85;26;1;0;0;26;0;0;0;0;0;Drawings & Prints;1967;1967;1
-William Wegman;American;male;1943;0;81;176;3;0;0;3;0;130;43;0;0;Media and Performance;1970;1998;15
 Dan Weiner;American;male;1919;1959;40;55;2;1;0;0;0;0;54;0;0;Photography;1949;1959;10
-Lawrence Weiner;American;male;1942;2021;79;140;4;0;0;88;14;37;1;0;0;Drawings & Prints;1963;2015;43
+Iran do Espirito Santo;Brazilian;male;1963;0;61;22;2;0;0;21;1;0;0;0;0;Drawings & Prints;1990;2008;7
 Henry Wessel, Jr.;American;male;1942;2018;76;23;1;0;0;0;0;0;23;0;0;Photography;1968;1987;10
 Tom Wesselmann;American;male;1931;2004;73;41;2;0;0;34;7;0;0;0;0;Drawings & Prints;1961;1990;13
 H. C. Westermann;American;male;1922;1981;59;36;2;0;0;34;2;0;0;0;0;Drawings & Prints;1964;1981;9
 Brett Weston;American;male;1911;1993;82;94;1;0;0;0;0;0;94;0;0;Photography;1925;1960;23
-Edward Weston;American;male;1886;1958;72;261;1;0;0;0;0;0;261;0;0;Photography;1917;1952;28
+Laura Owens;American;female;1970;0;54;23;2;0;0;21;2;0;0;0;0;Drawings & Prints;2000;2017;9
 Clarence H. White;American;male;1871;1925;54;73;1;0;0;0;0;0;73;0;0;Photography;1896;1925;21
 Minor White;American;male;1908;1976;68;52;1;0;0;0;0;0;52;0;0;Photography;1941;1973;16
 Stephen White;American;male;1948;0;76;52;1;0;0;52;0;0;0;0;0;Drawings & Prints;1968;1969;2
 Hilma af Klint;Swedish;female;1862;1944;82;47;1;0;0;47;0;0;0;0;0;Drawings & Prints;1919;1920;2
 William T. Wiley;American;male;1937;2020;83;26;1;0;0;26;0;0;0;0;0;Drawings & Prints;1970;2002;9
-Emmett Williams;American;male;1925;2007;82;105;2;0;9;96;0;0;0;0;0;Drawings & Prints;1958;2003;14
 Stefanie Posavec;American;female;1981;0;43;54;1;54;0;0;0;0;0;0;0;Architecture & Design;2014;2015;2
 Christopher Wilmarth;American;male;1943;1987;44;45;2;0;0;31;14;0;0;0;0;Drawings & Prints;1964;1987;18
 Robert Wilson;American;male;1941;0;83;39;2;0;0;38;0;1;0;0;0;Drawings & Prints;1973;2000;12
 Munio Gitai Weinraub;Israeli;male;1909;1970;61;21;1;21;0;0;0;0;0;0;0;Architecture & Design;1964;1994;2
-Garry Winogrand;American;male;1928;1984;56;360;1;0;0;0;0;0;360;0;0;Photography;1950;1983;29
-Terry Winters;American;male;1949;0;75;168;2;0;0;165;3;0;0;0;0;Drawings & Prints;1982;2020;30
 Francis Wishart;British;male;1951;0;73;21;1;0;0;21;0;0;0;0;0;Drawings & Prints;1978;1978;1
 Emerson Woelffer;American;male;1914;2003;89;28;1;0;0;28;0;0;0;0;0;Drawings & Prints;1961;1970;4
 Wols (A. O. Wolfgang Schulze);German;male;1913;1951;38;23;2;0;0;22;1;0;0;0;0;Drawings & Prints;1940;1965;7
-Christopher Wool;American;male;1955;0;69;160;3;0;0;157;2;0;1;0;0;Drawings & Prints;1984;2021;27
 Troels Wörsel;Danish;male;1950;0;74;31;1;0;0;31;0;0;0;0;0;Drawings & Prints;1977;1984;2
 Don Worth;American;male;1924;2009;85;23;1;0;0;0;0;0;23;0;0;Photography;1957;1978;9
 Dick Wray;American;male;1933;2011;78;22;1;0;0;22;0;0;0;0;0;Drawings & Prints;1964;1964;1
 Cedric Wright;American;male;1889;1959;70;29;1;0;0;0;0;0;29;0;0;Photography;1900;1945;8
-Frank Lloyd Wright;American;male;1867;1959;92;890;3;888;0;1;0;0;0;0;1;Architecture & Design;1887;1998;74
 Russel Wright;American;male;1904;1976;72;31;1;31;0;0;0;0;0;0;0;Architecture & Design;1927;1951;8
 Paul Wunderlich;German;male;1927;2010;83;53;1;0;0;53;0;0;0;0;0;Drawings & Prints;1956;1971;11
 Lance Wyman;American;male;1937;0;87;58;1;58;0;0;0;0;0;0;0;Architecture & Design;1967;1972;4
 Richard Wyndham;British;male;1896;1948;52;28;1;0;0;28;0;0;0;0;0;Drawings & Prints;1928;1928;1
+Laure Albin-Guillot;French;female;1878;1962;84;21;1;0;0;0;0;0;21;0;0;Photography;1931;1931;1
 Tadanori Yokoo;Japanese;male;1936;0;88;100;2;86;0;14;0;0;0;0;0;Architecture & Design;1956;1997;24
-La Monte Young;American;male;1935;0;89;146;2;0;21;125;0;0;0;0;0;Drawings & Prints;1958;1992;17
 Jack Youngerman;American;male;1926;2020;94;24;3;3;0;18;3;0;0;0;0;Drawings & Prints;1953;1969;7
 Adja Yunkers;American;male;1900;1983;83;52;1;0;0;52;0;0;0;0;0;Drawings & Prints;1939;1972;12
 Léon Zack;French;male;1892;1980;88;48;1;0;0;48;0;0;0;0;0;Drawings & Prints;1948;1948;1
@@ -985,15 +780,15 @@ Zao Wou-ki;French;male;1920;2013;93;25;1;0;0;25;0;0;0;0;0;Drawings & Prints;1950
 Zarina;American;female;1937;2020;83;43;1;0;0;43;0;0;0;0;0;Drawings & Prints;1971;2014;6
 Marian Zazeela;American;female;1940;0;84;49;2;0;5;44;0;0;0;0;0;Drawings & Prints;1962;1991;21
 Eva Zeisel;American;female;1906;2011;105;77;1;77;0;0;0;0;0;0;0;Architecture & Design;1929;1950;9
+Davor Vrankic;Croatian;male;1965;0;59;33;1;0;0;33;0;0;0;0;0;Drawings & Prints;1999;1999;1
 Piet Zwart;Dutch;male;1885;1977;92;78;2;77;0;0;0;0;1;0;0;Architecture & Design;1920;1959;20
+Mark Lombardi;American;male;1951;2000;49;20;1;0;0;20;0;0;0;0;0;Drawings & Prints;1994;2000;6
 Lorna Simpson;American;female;1960;0;64;37;3;0;0;10;1;0;26;0;0;Photography;1989;2009;9
 Robert Andrew Parker;American;male;1927;0;97;55;1;0;0;55;0;0;0;0;0;Drawings & Prints;1954;1977;8
 John Armleder;Swiss;male;1948;0;76;61;2;0;0;60;1;0;0;0;0;Drawings & Prints;1984;2003;9
-Fernand Léger;French;male;1881;1955;74;233;3;9;0;209;15;0;0;0;0;Drawings & Prints;1907;1956;36
-Ilya Kabakov;American;male;1933;2023;90;101;2;0;0;100;1;0;0;0;0;Drawings & Prints;1968;2000;7
+James Siena;American;male;1957;0;67;52;1;0;0;52;0;0;0;0;0;Drawings & Prints;1990;2016;12
 Gordon Matta-Clark;American;male;1943;1978;35;71;4;0;0;13;2;24;32;0;0;Photography;1970;2007;11
 Pablo Palazuelo;Spanish;male;1916;2007;91;20;1;0;0;20;0;0;0;0;0;Drawings & Prints;1978;1978;1
-Sophie Calle;French;female;1953;0;71;205;3;0;0;4;1;0;200;0;0;Photography;1979;2017;6
 Laurie Anderson;American;female;1947;0;77;25;2;0;0;13;0;12;0;0;0;Drawings & Prints;1974;1997;10
 Martha Rosler;American;female;1943;0;81;77;3;0;0;28;0;27;22;0;0;Drawings & Prints;1967;2014;19
 Glenn Ligon;American;male;1960;0;64;35;3;0;0;30;4;1;0;0;0;Drawings & Prints;1988;2021;15
@@ -1001,6 +796,7 @@ Damien Hirst;British;male;1965;0;59;55;1;0;0;55;0;0;0;0;0;Drawings & Prints;1991
 Rachel Whiteread;British;female;1963;0;61;47;3;0;0;38;4;0;5;0;0;Drawings & Prints;1970;2004;11
 Tullio d'Albisola (Tullio Spartaco Mazzotti);Italian;male;1899;1971;72;27;1;0;0;27;0;0;0;0;0;Drawings & Prints;1932;1932;1
 Lynn Hershman Leeson;American;female;1941;0;83;47;2;0;0;0;0;7;40;0;0;Photography;1965;1996;9
+Mstislav Dobuzhinskii;;male;1875;1952;77;57;1;0;0;57;0;0;0;0;0;Drawings & Prints;1911;1932;6
 Zaha Hadid;British;female;1950;2016;66;25;1;25;0;0;0;0;0;0;0;Architecture & Design;1978;2007;6
 Rem Koolhaas;Dutch;male;1944;0;80;53;1;53;0;0;0;0;0;0;0;Architecture & Design;1972;2006;18
 Madelon Vriesendorp;Dutch;female;1945;0;79;26;1;26;0;0;0;0;0;0;0;Architecture & Design;1972;1987;7
@@ -1015,29 +811,25 @@ Laurie Simmons;American;female;1949;0;75;26;2;0;0;2;0;0;24;0;0;Photography;1976;
 Adrian Piper;American;female;1948;0;76;79;4;0;0;61;2;1;15;0;0;Drawings & Prints;1966;1992;11
 Rudolph Von Ripper;American;male;1905;1960;55;35;1;0;0;35;0;0;0;0;0;Drawings & Prints;1936;1938;3
 Philip-Lorca diCorcia;American;male;1951;0;73;50;1;0;0;0;0;0;50;0;0;Photography;1978;2004;16
-U.S. Army Signal Corps;American;;0;0;2024;85;1;0;0;0;0;0;85;0;0;Photography;1914;1945;5
 Madoka Takagi;Japanese;female;1956;2015;59;46;1;0;0;0;0;0;46;0;0;Photography;1989;1991;3
 Reiko Sudo;Japanese;female;1953;0;71;22;1;22;0;0;0;0;0;0;0;Architecture & Design;1992;2007;7
 Bernard Tschumi;;male;1944;0;80;61;1;61;0;0;0;0;0;0;0;Architecture & Design;1976;1992;9
 Faith Ringgold;American;female;1930;0;94;24;2;0;0;23;1;0;0;0;0;Drawings & Prints;1967;2009;7
 Paula Scher;American;female;1948;0;76;20;1;20;0;0;0;0;0;0;0;Architecture & Design;1976;1995;8
 Robert Therrien;American;male;1947;2019;72;27;2;0;0;26;1;0;0;0;0;Drawings & Prints;1992;2003;5
-Luigi Ghirri;Italian;male;1943;1992;49;130;1;0;0;0;0;0;130;0;0;Photography;1970;1974;5
+Kseniia Boguslavskaia;;female;1892;1972;80;57;1;0;0;57;0;0;0;0;0;Drawings & Prints;1918;1932;2
+Vladimir Kozlinskii;Russian;male;1891;1967;76;61;2;1;0;60;0;0;0;0;0;Drawings & Prints;1918;1932;4
 Guillermo Kuitca;Argentine;male;1961;0;63;33;2;0;0;31;2;0;0;0;0;Drawings & Prints;1992;2015;5
+Vasyl Yermilov;Ukrainian;male;1894;1968;74;30;2;0;0;29;1;0;0;0;0;Drawings & Prints;1918;1962;11
 Geoffrey James;Canadian;male;1942;0;82;22;1;0;0;0;0;0;22;0;0;Photography;1989;2005;4
-Ludwig Mies van der Rohe;American;male;1886;1969;83;10756;2;10735;0;0;0;0;0;0;21;Architecture & Design;1910;2001;56
 Carrie Mae Weems;American;female;1953;0;71;25;2;0;0;1;0;0;24;0;0;Photography;1988;2002;6
 Tauba Auerbach;American;female;1981;0;43;31;3;0;0;27;3;1;0;0;0;Drawings & Prints;2006;2018;6
-Rafael Viñoly;American;male;1944;0;80;161;1;161;0;0;0;0;0;0;0;Architecture & Design;1969;1991;10
 Lella Vignelli;Italian;female;1934;2016;82;41;1;41;0;0;0;0;0;0;0;Architecture & Design;1962;1985;14
 Mona Hatoum;British;female;1952;0;72;29;3;0;0;24;4;1;0;0;0;Drawings & Prints;1988;2006;12
 Gabriel Orozco;Mexican;male;1962;0;62;52;3;0;0;42;6;0;4;0;0;Drawings & Prints;1992;2021;15
 Christian de Portzamparc;French;male;1944;0;80;21;1;21;0;0;0;0;0;0;0;Architecture & Design;1987;1999;2
-General Idea;Canadian;male;1969;1994;25;112;3;0;0;109;1;2;0;0;0;Drawings & Prints;1968;2012;27
 Rirkrit Tiravanija;Thai;male;1961;0;63;33;2;0;0;32;1;0;0;0;0;Drawings & Prints;1991;2022;17
 Enrique Chagoya;Mexican;male;1953;0;71;25;1;0;0;25;0;0;0;0;0;Drawings & Prints;1994;2015;8
-Gilbert & George;British;male;0;0;2024;74;4;0;0;53;2;3;16;0;0;Drawings & Prints;1969;1995;16
-Raymond Pettibon;American;male;1957;0;67;335;1;0;0;335;0;0;0;0;0;Drawings & Prints;1978;2015;32
 Rebecca Horn;German;female;1944;0;80;37;2;0;0;36;1;0;0;0;0;Drawings & Prints;1968;1998;5
 Roni Horn;American;female;1955;0;69;29;3;0;0;24;4;0;1;0;0;Drawings & Prints;1982;2002;18
 Cyan;German;;1992;0;32;25;1;25;0;0;0;0;0;0;0;Architecture & Design;1991;1997;7
@@ -1058,22 +850,17 @@ Hella Jongerius;Dutch;female;1963;0;61;29;1;29;0;0;0;0;0;0;0;Architecture & Desi
 David Moreno;American;male;1957;0;67;28;3;0;0;26;1;0;1;0;0;Drawings & Prints;1994;2004;4
 Paul McCarthy;American;male;1945;0;79;62;2;0;0;36;0;26;0;0;0;Drawings & Prints;1971;2013;20
 Ellen Gallagher;American;female;1965;0;59;86;2;0;0;84;2;0;0;0;0;Drawings & Prints;1995;2016;8
-Elaine Lustig Cohen;American;female;1927;2016;89;235;2;234;0;1;0;0;0;0;0;Architecture & Design;1950;1997;28
 Rudy Burckhardt;American;male;1914;1999;85;61;2;0;0;1;0;0;60;0;0;Photography;1940;1996;8
-Franz Erhard Walther;German;male;1939;0;85;145;2;0;0;86;59;0;0;0;0;Drawings & Prints;1919;1975;12
 Kara Walker;American;female;1969;0;55;87;3;0;0;82;4;1;0;0;0;Drawings & Prints;1994;2017;16
 Carolee Schneemann;American;female;1939;2019;80;40;4;0;0;16;1;22;1;0;0;Media and Performance;1962;2009;11
 Douglas Gordon;Scottish;male;1966;0;58;25;2;0;0;22;0;3;0;0;0;Drawings & Prints;1984;2011;7
 VALIE EXPORT;Austrian;female;1940;0;84;83;3;0;0;6;0;55;22;0;0;Media and Performance;1966;2011;22
 Cady Noland;American;female;1956;0;68;44;2;0;0;42;2;0;0;0;0;Drawings & Prints;1988;2005;8
 Vik Muniz;Brazilian;male;1961;0;63;39;2;0;0;8;0;0;31;0;0;Photography;1985;2005;12
-Roman Signer;Swiss;male;1938;0;86;207;2;0;0;1;0;206;0;0;0;Media and Performance;1975;2003;17
 Thomas Struth;German;male;1954;0;70;28;2;0;0;3;0;0;25;0;0;Photography;1921;1997;13
-Frances Benjamin Johnston;American;female;1864;1952;88;159;1;0;0;0;0;0;159;0;0;Photography;1899;1900;2
 Rachel Harrison;American;female;1966;0;58;81;3;0;0;9;5;0;67;0;0;Photography;1996;2017;10
 Bill Viola;American;male;1951;0;73;20;1;0;0;0;0;20;0;0;0;Media and Performance;1976;1994;9
 Rudolf Schwarzkogler;Austrian;male;1940;1969;29;65;2;0;0;2;0;0;63;0;0;Photography;1965;1969;4
-William Kentridge;South African;male;1955;0;69;136;3;0;0;127;3;6;0;0;0;Drawings & Prints;1980;2012;16
 Louise Lawler;American;female;1947;0;77;85;2;0;0;73;0;0;12;0;0;Drawings & Prints;1978;2017;29
 Joseph Grigely;American;male;1956;0;68;47;1;0;0;47;0;0;0;0;0;Drawings & Prints;1996;2006;3
 Mira Schendel;Brazilian;female;1919;1988;69;57;2;0;0;50;7;0;0;0;0;Drawings & Prints;1953;1987;12
@@ -1085,8 +872,7 @@ Cedric Price;British;male;1934;2003;69;53;1;53;0;0;0;0;0;0;0;Architecture & Desi
 Fiona Banner;British;female;1966;0;58;96;1;0;0;96;0;0;0;0;0;Drawings & Prints;1996;2017;22
 Elizabeth Peyton;American;female;1965;0;59;32;2;0;0;28;4;0;0;0;0;Drawings & Prints;1990;2011;14
 Wolfgang Tillmans;German;male;1968;0;56;48;3;0;0;4;0;1;43;0;0;Photography;1975;2021;17
-Hans-Peter Feldmann;German;male;1941;2023;82;110;2;0;0;7;0;0;103;0;0;Photography;1954;2008;9
-Lilly Reich;German;female;1885;1947;62;850;2;846;0;0;0;0;0;0;4;Architecture & Design;1926;1947;17
+Erich Comeriner;German;male;1907;1978;71;27;3;24;0;1;0;0;2;0;0;Architecture & Design;1920;1930;5
 Robert Adamson;British;male;1821;1848;27;38;1;0;0;0;0;0;38;0;0;Photography;1840;1847;7
 Thomas Geismar;American;male;1931;0;93;71;1;71;0;0;0;0;0;0;0;Architecture & Design;1950;1981;17
 Gordon Parks;American;male;1912;2006;94;75;1;0;0;0;0;0;75;0;0;Photography;1942;1963;8
@@ -1106,7 +892,6 @@ Erich Mendelsohn;American;male;1887;1953;66;20;1;20;0;0;0;0;0;0;0;Architecture &
 John Heartfield (Helmut Herzfeld);German;male;1891;1968;77;24;3;20;0;3;0;0;1;0;0;Architecture & Design;1922;1936;12
 Franz Wilhelm Seiwert;German;male;1894;1933;39;36;2;29;0;7;0;0;0;0;0;Architecture & Design;1917;1933;14
 Anton Stankowski;German;male;1906;1998;92;24;1;24;0;0;0;0;0;0;0;Architecture & Design;1929;1981;10
-Harry Shunk;French;male;1924;2006;82;653;1;0;0;0;0;0;653;0;0;Photography;1960;1971;3
 František Kalivoda;Czech;male;1913;1971;58;31;1;31;0;0;0;0;0;0;0;Architecture & Design;1930;1938;7
 Zdeněk Rossmann;Czech;male;1905;1984;79;51;1;51;0;0;0;0;0;0;0;Architecture & Design;1929;1938;9
 Solomon Telingater;Russian;male;1903;1969;66;28;2;2;0;26;0;0;0;0;0;Drawings & Prints;1922;1934;8
@@ -1118,7 +903,6 @@ Pipilotti Rist;Swiss;female;1962;0;62;30;4;0;0;8;1;10;11;0;0;Photography;1986;20
 Maurizio Cattelan;Italian;male;1960;0;64;58;1;0;0;58;0;0;0;0;0;Drawings & Prints;1998;2021;6
 Robert Overby;American;male;1935;1993;58;70;2;0;0;68;2;0;0;0;0;Drawings & Prints;1969;1992;8
 Corita Kent (Sister Mary Corita);American;female;1918;1986;68;28;1;0;0;28;0;0;0;0;0;Drawings & Prints;1956;1968;2
-Francis Alÿs;Belgian;male;1959;0;65;201;4;0;0;12;2;185;2;0;0;Media and Performance;1990;2010;14
 Philippe Starck;French;male;1949;0;75;76;1;76;0;0;0;0;0;0;0;Architecture & Design;1986;2000;14
 Dieter Rams;German;male;1932;0;92;23;1;23;0;0;0;0;0;0;0;Architecture & Design;1956;1980;11
 John Bock;German;male;1965;0;59;22;2;0;0;21;0;1;0;0;0;Drawings & Prints;1996;2015;10
@@ -1126,38 +910,42 @@ Varvara Rodchenko;Russian;female;1925;2019;94;34;1;0;0;34;0;0;0;0;0;Drawings & P
 Anna Maria Maiolino;Brazilian;female;1942;0;82;33;2;0;0;32;0;0;1;0;0;Drawings & Prints;1972;2000;9
 Christian Marclay;American;male;1955;0;69;53;2;0;0;50;0;3;0;0;0;Drawings & Prints;1980;2009;15
 Dan Walsh;American;male;1960;0;64;20;1;0;0;20;0;0;0;0;0;Drawings & Prints;2007;2017;6
-Associated Press;;;0;0;2024;22;1;0;0;0;0;0;22;0;0;Photography;1933;1989;18
 Rene Portocarrero;Cuban;male;1914;1985;71;27;1;0;0;27;0;0;0;0;0;Drawings & Prints;1941;1945;2
 Bernardo Ortiz Campo;Colombian;male;1972;0;52;20;1;0;0;20;0;0;0;0;0;Drawings & Prints;1995;2010;8
-NASA;American;;0;0;2024;53;1;0;0;0;0;0;53;0;0;Photography;1969;1971;2
-Unidentified photographer;;;0;0;2024;2836;3;5;0;8;0;0;2823;0;0;Photography;1840;1992;108
 Times Wide World Photos;American;;1919;1941;22;69;1;0;0;0;0;0;69;0;0;Photography;1915;1958;23
-Ralph Thomas Ward (Corkie);;;0;0;2024;26;1;0;0;26;0;0;0;0;0;Drawings & Prints;1953;1953;1
-John Jensen;American;;1924;2003;79;302;1;0;0;0;0;0;0;302;0;Film;99999;0;1
 Cang Xin;Chinese;male;1966;0;58;35;1;0;0;0;0;0;35;0;0;Photography;1999;1999;1
 Ulrik Heltoft;Danish;male;1973;0;51;25;1;0;0;0;0;0;25;0;0;Photography;2013;2013;1
 Miljohn Ruperto;Filipino;;1971;0;53;25;1;0;0;0;0;0;25;0;0;Photography;2013;2013;1
 Massachusetts Institute of Technology, Cambridge, MA;American;;1861;0;163;23;1;23;0;0;0;0;0;0;0;Architecture & Design;2007;2018;4
 Wael Shawky;Egyptian;male;1971;0;53;33;2;0;0;20;0;13;0;0;0;Drawings & Prints;2010;2014;3
-Hans Kappler;German;male;0;0;2024;22;1;22;0;0;0;0;0;0;0;Architecture & Design;99999;0;1
-Marianne Wex;German;female;1937;2020;83;214;1;0;0;0;0;0;214;0;0;Photography;1977;1977;1
-Ben Kinmont;American;male;1963;0;61;665;1;0;0;665;0;0;0;0;0;Drawings & Prints;1990;2018;30
+Ryan McGinness;American;male;1972;0;52;22;1;0;0;22;0;0;0;0;0;Drawings & Prints;2004;2007;2
+Julie Mehretu;American;female;1970;0;54;52;2;0;0;50;2;0;0;0;0;Drawings & Prints;2002;2022;14
+Gilbert Proesch;British;male;1943;0;81;56;3;0;0;51;2;3;0;0;0;Drawings & Prints;1969;1995;15
+Arturo Herrera;Venezuelan;male;1959;0;65;24;1;0;0;24;0;0;0;0;0;Drawings & Prints;1997;2020;5
 Coors Porcelain Co., Golden, CO;American;;1910;0;114;22;1;22;0;0;0;0;0;0;0;Architecture & Design;1920;1920;1
 Enrique Ramírez;Chilean;male;1979;0;45;26;1;0;0;0;0;26;0;0;0;Media and Performance;2013;2013;1
 Sanlé Sory;Burkinabé;male;1943;0;81;26;1;0;0;0;0;0;26;0;0;Photography;1970;1970;1
-Daniel Grataloup;Swiss;male;1937;0;87;167;1;167;0;0;0;0;0;0;0;Architecture & Design;1970;1996;3
+Rodney Graham;Canadian;male;1949;2022;73;74;2;0;0;72;0;2;0;0;0;Drawings & Prints;1980;2013;26
 Daum Frères, Nancy, France;French;;1875;0;149;23;1;23;0;0;0;0;0;0;0;Architecture & Design;1900;1910;2
 Douglas Darden;American;male;1951;1996;45;48;1;48;0;0;0;0;0;0;0;Architecture & Design;1988;1996;2
+Kai Althoff;German;male;1966;0;58;24;2;0;0;20;4;0;0;0;0;Drawings & Prints;1990;2015;12
+Lebbeus Woods;American;male;1940;2012;72;21;1;21;0;0;0;0;0;0;0;Architecture & Design;1970;2002;5
+Michael Kalil;American;male;1943;1991;48;21;1;21;0;0;0;0;0;0;0;Architecture & Design;1986;1986;1
 Valentine Gunasekara;Sri Lankan;male;1931;2017;86;34;1;34;0;0;0;0;0;0;0;Architecture & Design;1960;1982;4
-Alvin Lustig;American;male;1915;1955;40;101;1;101;0;0;0;0;0;0;0;Architecture & Design;1939;1955;11
+Marina Abramović;Serbian;female;1946;0;78;57;2;0;0;41;0;16;0;0;0;Drawings & Prints;1983;2008;6
+Valérie Belin;French;female;1964;0;60;25;1;0;0;0;0;0;25;0;0;Photography;2003;2012;4
+Álvaro Barrios;Colombian;male;1945;0;79;44;1;0;0;44;0;0;0;0;0;Drawings & Prints;1974;2008;15
 Geta Brătescu;Romanian;female;1926;2018;92;21;4;0;0;13;3;3;2;0;0;Drawings & Prints;1971;1992;6
 Nicolás Paris;Colombian;male;1977;0;47;52;1;0;0;52;0;0;0;0;0;Drawings & Prints;2008;2017;3
+Teodoro González de León;Mexican;male;1926;2016;90;26;1;26;0;0;0;0;0;0;0;Architecture & Design;1953;1974;3
+Lygia Clark;Brazilian;female;1920;1988;68;21;2;0;0;12;9;0;0;0;0;Drawings & Prints;1948;2001;11
+Jeanne Moutoussamy-Ashe;American;female;1951;0;73;25;1;0;0;0;0;0;25;0;0;Photography;1977;2001;3
 José Antonio Attolini Lack;Mexican;male;1931;2012;81;55;1;55;0;0;0;0;0;0;0;Architecture & Design;1958;1984;8
-Flora Manteola;Argentine;female;1936;0;88;201;1;201;0;0;0;0;0;0;0;Architecture & Design;1962;2015;12
-Javier Sánchez Gómez;Argentine;male;1936;0;88;201;1;201;0;0;0;0;0;0;0;Architecture & Design;1962;2015;12
-Josefa Santos;Argentine;female;1931;0;93;184;1;184;0;0;0;0;0;0;0;Architecture & Design;1969;2015;11
-Justo Solsona;Argentine;male;1931;0;93;201;1;201;0;0;0;0;0;0;0;Architecture & Design;1962;2015;12
+Marcel Dzama;Canadian;male;1974;0;50;36;1;0;0;36;0;0;0;0;0;Drawings & Prints;1932;2004;6
+Trenton Doyle Hancock;American;male;1974;0;50;20;1;0;0;20;0;0;0;0;0;Drawings & Prints;2002;2005;3
+Paul Kirps;Luxembourger;male;1969;0;55;21;1;21;0;0;0;0;0;0;0;Architecture & Design;2002;2005;2
 Hugo van Werden;German;male;1836;1911;75;30;1;0;0;0;0;0;30;0;0;Photography;1867;1873;7
+Mark Grotjahn;American;male;1968;0;56;22;2;0;0;18;4;0;0;0;0;Drawings & Prints;2000;2014;10
 Kirill Zdanevich;Georgian;male;1892;1969;77;79;1;0;0;79;0;0;0;0;0;Drawings & Prints;1917;1933;11
 Vladimir Mayakovsky;Russian;male;1893;1930;37;50;2;1;0;49;0;0;0;0;0;Drawings & Prints;1913;1936;12
 Natan Al'tman;Russian;male;1889;1971;82;91;1;0;0;91;0;0;0;0;0;Drawings & Prints;1913;1932;14
@@ -1171,102 +959,6 @@ Wolfgang Stoerchle;German;male;1944;1976;32;25;1;0;0;0;0;0;25;0;0;Photography;19
 Lee Jaffe;American;male;1950;0;74;35;1;0;0;0;0;0;35;0;0;Photography;1971;1971;1
 Nikolai Kul'bin;Russian;male;1868;1917;49;44;1;0;0;44;0;0;0;0;0;Drawings & Prints;1910;1922;7
 Frederick Cooper Llosa;Peruvian;male;1939;0;85;23;1;23;0;0;0;0;0;0;0;Architecture & Design;1972;1974;2
-Nikolai Rogovin;Russian;male;0;0;2024;89;1;0;0;89;0;0;0;0;0;Drawings & Prints;1912;1912;1
-Juan Baixas;Chilean;male;1942;0;82;72;1;72;0;0;0;0;0;0;0;Architecture & Design;1975;1980;2
-Gustav Klutsis;Latvian;male;1895;1938;43;75;4;31;0;41;1;0;2;0;0;Drawings & Prints;1919;1933;14
-Igor' Terent'ev;Russian;male;1892;1937;45;38;1;0;0;38;0;0;0;0;0;Drawings & Prints;1915;1933;8
-John Moore;American;male;0;0;2024;45;1;0;0;0;0;0;45;0;0;Photography;1967;1967;1
-Ilia Zdanevich;Georgian;male;1894;1974;80;21;2;1;0;20;0;0;0;0;0;Drawings & Prints;1915;1948;7
-Vladimir Lebedev;Russian;male;1891;1967;76;71;2;2;0;69;0;0;0;0;0;Drawings & Prints;1918;1943;11
-Robert H. McNeill;American;male;1917;2005;88;23;1;0;0;0;0;0;23;0;0;Photography;1937;1941;4
-Aleksei Gan;Russian;male;1889;1942;53;22;2;4;0;18;0;0;0;0;0;Drawings & Prints;1920;1930;7
-David Horvitz;American;;1982;0;42;57;1;0;0;0;0;0;57;0;0;Photography;2012;2022;2
-Department of Publications and Urban Design, Organizing Committee of the XIX Olympiad;;;0;0;2024;94;1;94;0;0;0;0;0;0;0;Architecture & Design;1968;1968;2
-Beatrice Trueblood;British;female;1938;0;86;28;1;28;0;0;0;0;0;0;0;Architecture & Design;1968;1968;1
-Carlos Sallaberry;Argentine;male;0;0;2024;116;1;116;0;0;0;0;0;0;0;Architecture & Design;1969;2015;9
-Felipe Tarsitano;Argentine;male;0;0;2024;67;1;67;0;0;0;0;0;0;0;Architecture & Design;1969;1981;6
-Ignacio Petchersky;Argentine;male;0;0;2024;68;1;68;0;0;0;0;0;0;0;Architecture & Design;1969;1972;3
-Ivan Kliun;Russian;male;1878;1943;65;38;2;0;0;37;1;0;0;0;0;Drawings & Prints;1915;1934;11
-Jorge Castillo;Venezuelan;male;1933;0;91;44;1;44;0;0;0;0;0;0;0;Architecture & Design;1972;1975;2
-LaToya Ruby Frazier;American;female;1982;0;42;126;1;0;0;0;0;0;126;0;0;Photography;2005;2019;5
-Peter Zumthor;Swiss;male;1943;0;81;38;1;38;0;0;0;0;0;0;0;Architecture & Design;1992;2009;3
-Sergei Chekhonin;;male;0;0;2024;20;1;0;0;20;0;0;0;0;0;Drawings & Prints;1911;1928;6
-Patterson Beckwith;American;male;1972;0;52;119;1;0;0;0;0;119;0;0;0;Media and Performance;1994;1994;1
-Alex Bag;American;female;1969;0;55;119;1;0;0;0;0;119;0;0;0;Media and Performance;1994;1994;1
-Nelson Tarpenny;;;0;0;2024;30;1;0;0;30;0;0;0;0;0;Drawings & Prints;1984;1992;8
-Mirko Ilić;American;male;1956;0;68;37;1;37;0;0;0;0;0;0;0;Architecture & Design;1977;1985;9
-Sou Fujimoto Architects;;;0;0;2024;73;1;73;0;0;0;0;0;0;0;Architecture & Design;2015;2015;1
-Sou Fujimoto;Japanese;male;1971;0;53;74;1;74;0;0;0;0;0;0;0;Architecture & Design;2011;2015;2
-Matt Keegan;American;male;1976;0;48;52;2;0;0;1;0;0;51;0;0;Photography;2009;2016;2
-Juan Uslé;Spanish;male;1954;0;70;21;1;0;0;21;0;0;0;0;0;Drawings & Prints;2000;2009;2
-Eric Owen Moss;American;male;1943;0;81;22;1;22;0;0;0;0;0;0;0;Architecture & Design;1976;1980;3
-Alberto Greco;Argentine;male;1931;1965;34;58;2;0;0;37;0;21;0;0;0;Drawings & Prints;1961;1965;3
-Miguel Rio Branco;Brazilian;male;1946;0;78;37;2;0;0;0;0;1;36;0;0;Photography;1970;1985;3
-Fazal Sheikh;American;male;1965;0;59;131;1;0;0;0;0;0;131;0;0;Photography;2013;2013;1
-Greer Lankton;American;;1958;1996;38;27;1;0;0;0;0;0;0;27;0;Film;1977;1996;11
-Juraj Neidhardt;Croatian;male;1901;1979;78;40;1;40;0;0;0;0;0;0;0;Architecture & Design;1957;1979;13
-Wayne Miller;American;male;1918;2013;95;81;1;0;0;0;0;0;81;0;0;Photography;1900;1958;7
-Richard Benson;American;male;1943;2017;74;35;1;0;0;0;0;0;35;0;0;Photography;1970;2008;13
-Hannah Wilke;American;female;1940;1993;53;31;4;0;0;22;1;5;3;0;0;Drawings & Prints;1963;1992;14
-Arthur Köpcke;German;male;1928;1977;49;104;2;0;66;38;0;0;0;0;0;Fluxus Collection;1961;1979;11
-Hans Danuser;Swiss;male;1953;0;71;36;2;34;0;2;0;0;0;0;0;Architecture & Design;1992;1998;4
-Tim Rollins;American;male;1955;2017;62;45;2;0;0;44;1;0;0;0;0;Drawings & Prints;1985;1997;5
-Nicole Eisenman;American;female;1965;0;59;26;2;0;0;24;2;0;0;0;0;Drawings & Prints;1992;2014;9
-David Shrigley;British;male;1968;0;56;57;1;0;0;57;0;0;0;0;0;Drawings & Prints;1998;2008;6
-Alfredo Boulton;Venezuelan;male;1908;1995;87;30;1;0;0;0;0;0;30;0;0;Photography;1934;1942;3
-George Maciunas;American;male;1931;1978;47;1058;2;0;383;675;0;0;0;0;0;Drawings & Prints;1926;2007;37
-Hani Rashid;Canadian;male;1958;0;66;27;1;27;0;0;0;0;0;0;0;Architecture & Design;1994;2011;5
-Lise Anne Couture;Canadian;female;1959;0;65;27;1;27;0;0;0;0;0;0;0;Architecture & Design;1994;2011;5
-Iran do Espirito Santo;Brazilian;male;1963;0;61;22;2;0;0;21;1;0;0;0;0;Drawings & Prints;1990;2008;7
-Laura Owens;American;female;1970;0;54;23;2;0;0;21;2;0;0;0;0;Drawings & Prints;2000;2017;9
-Laure Albin-Guillot;French;female;1878;1962;84;21;1;0;0;0;0;0;21;0;0;Photography;1931;1931;1
-Davor Vrankic;Croatian;male;1965;0;59;33;1;0;0;33;0;0;0;0;0;Drawings & Prints;1999;1999;1
-Mark Lombardi;American;male;1951;2000;49;20;1;0;0;20;0;0;0;0;0;Drawings & Prints;1994;2000;6
-James Siena;American;male;1957;0;67;52;1;0;0;52;0;0;0;0;0;Drawings & Prints;1990;2016;12
-Unidentified Artists;;;0;0;2024;201;1;0;0;201;0;0;0;0;0;Drawings & Prints;1910;1931;3
-Mstislav Dobuzhinskii;;male;1875;1952;77;57;1;0;0;57;0;0;0;0;0;Drawings & Prints;1911;1932;6
-Russian Book Collection;;;0;0;2024;95;1;0;0;95;0;0;0;0;0;Drawings & Prints;1911;1943;27
-Unidentified Artist;Nationality unknown;;0;0;2024;721;3;525;0;192;0;0;0;4;0;Architecture & Design;1880;2005;62
-David Shterenberg;;male;0;0;2024;59;1;0;0;59;0;0;0;0;0;Drawings & Prints;1919;1932;7
-Kseniia Boguslavskaia;;female;1892;1972;80;57;1;0;0;57;0;0;0;0;0;Drawings & Prints;1918;1932;2
-Vladimir Kozlinskii;Russian;male;1891;1967;76;61;2;1;0;60;0;0;0;0;0;Drawings & Prints;1918;1932;4
-Vasyl Yermilov;Ukrainian;male;1894;1968;74;30;2;0;0;29;1;0;0;0;0;Drawings & Prints;1918;1962;11
-Boris Kustodiev;;male;0;0;2024;64;1;0;0;64;0;0;0;0;0;Drawings & Prints;1926;1932;2
-Leonid Akishin;;male;0;0;2024;50;1;0;0;50;0;0;0;0;0;Drawings & Prints;1932;1932;1
-David Buryshkin;;male;0;0;2024;50;1;0;0;50;0;0;0;0;0;Drawings & Prints;1932;1932;1
-The Decorative Arts Institute;;;0;0;2024;50;1;0;0;50;0;0;0;0;0;Drawings & Prints;1932;1932;1
-Duplitskii;;;0;0;2024;50;1;0;0;50;0;0;0;0;0;Drawings & Prints;1932;1932;1
-Izoram;;;0;0;2024;50;1;0;0;50;0;0;0;0;0;Drawings & Prints;1932;1932;1
-Sarra Lebedeva;;female;0;0;2024;50;1;0;0;50;0;0;0;0;0;Drawings & Prints;1932;1932;1
-The October Brigade;;;0;0;2024;50;1;0;0;50;0;0;0;0;0;Drawings & Prints;1932;1932;1
-N. A. Trotskii;;;0;0;2024;50;1;0;0;50;0;0;0;0;0;Drawings & Prints;1932;1932;1
-Various Unidentified Artists;;;0;0;2024;73;1;0;0;0;0;0;73;0;0;Photography;1870;1882;3
-Proletkult, Leningrad;;;0;0;2024;50;1;0;0;50;0;0;0;0;0;Drawings & Prints;1932;1932;1
-Various Artists;;;0;0;2024;759;4;5;16;732;0;0;6;0;0;Drawings & Prints;1866;2021;108
-Erich Comeriner;German;male;1907;1978;71;27;3;24;0;1;0;0;2;0;0;Architecture & Design;1920;1930;5
-Ryan McGinness;American;male;1972;0;52;22;1;0;0;22;0;0;0;0;0;Drawings & Prints;2004;2007;2
-Julie Mehretu;American;female;1970;0;54;52;2;0;0;50;2;0;0;0;0;Drawings & Prints;2002;2022;14
-Jerome Neuner;American;male;1945;0;79;147;2;0;0;21;0;0;126;0;0;Photography;1970;2011;14
-Yoshitomo Nara;Japanese;male;1959;0;65;148;1;0;0;148;0;0;0;0;0;Drawings & Prints;1997;2012;5
-Gilbert Proesch;British;male;1943;0;81;56;3;0;0;51;2;3;0;0;0;Drawings & Prints;1969;1995;15
-Arturo Herrera;Venezuelan;male;1959;0;65;24;1;0;0;24;0;0;0;0;0;Drawings & Prints;1997;2020;5
-Rodney Graham;Canadian;male;1949;2022;73;74;2;0;0;72;0;2;0;0;0;Drawings & Prints;1980;2013;26
-Kai Althoff;German;male;1966;0;58;24;2;0;0;20;4;0;0;0;0;Drawings & Prints;1990;2015;12
-Lebbeus Woods;American;male;1940;2012;72;21;1;21;0;0;0;0;0;0;0;Architecture & Design;1970;2002;5
-Michael Kalil;American;male;1943;1991;48;21;1;21;0;0;0;0;0;0;0;Architecture & Design;1986;1986;1
-Marina Abramović;Serbian;female;1946;0;78;57;2;0;0;41;0;16;0;0;0;Drawings & Prints;1983;2008;6
-Valérie Belin;French;female;1964;0;60;25;1;0;0;0;0;0;25;0;0;Photography;2003;2012;4
-John L. Dunmore;American;male;1823;1892;69;142;1;0;0;0;0;0;142;0;0;Photography;1869;1869;1
-Álvaro Barrios;Colombian;male;1945;0;79;44;1;0;0;44;0;0;0;0;0;Drawings & Prints;1974;2008;15
-José Antonio Suárez Londoño;Colombian;male;1955;0;69;289;1;0;0;289;0;0;0;0;0;Drawings & Prints;1979;2011;23
-William Bradford;American;male;1823;1892;69;142;1;0;0;0;0;0;142;0;0;Photography;1869;1869;1
-Teodoro González de León;Mexican;male;1926;2016;90;26;1;26;0;0;0;0;0;0;0;Architecture & Design;1953;1974;3
-Lygia Clark;Brazilian;female;1920;1988;68;21;2;0;0;12;9;0;0;0;0;Drawings & Prints;1948;2001;11
-Jeanne Moutoussamy-Ashe;American;female;1951;0;73;25;1;0;0;0;0;0;25;0;0;Photography;1977;2001;3
-Marcel Dzama;Canadian;male;1974;0;50;36;1;0;0;36;0;0;0;0;0;Drawings & Prints;1932;2004;6
-Trenton Doyle Hancock;American;male;1974;0;50;20;1;0;0;20;0;0;0;0;0;Drawings & Prints;2002;2005;3
-Paul Kirps;Luxembourger;male;1969;0;55;21;1;21;0;0;0;0;0;0;0;Architecture & Design;2002;2005;2
-Mark Grotjahn;American;male;1968;0;56;22;2;0;0;18;4;0;0;0;0;Drawings & Prints;2000;2014;10
 Christian Holstad;American;male;1972;0;52;40;1;0;0;40;0;0;0;0;0;Drawings & Prints;1997;2004;4
 William Leavitt;American;male;1941;0;83;39;2;0;0;38;0;0;1;0;0;Drawings & Prints;1969;2012;12
 Nick Mauss;American;male;1980;0;44;41;1;0;0;41;0;0;0;0;0;Drawings & Prints;2003;2004;2
@@ -1274,6 +966,7 @@ Lucy McKenzie;British;female;1977;0;47;42;2;0;0;40;2;0;0;0;0;Drawings & Prints;2
 Meredith Monk;American;female;1942;0;82;24;2;0;0;18;0;6;0;0;0;Drawings & Prints;1967;2003;13
 Paulina Olowska;Polish;female;1976;0;48;34;2;0;0;33;1;0;0;0;0;Drawings & Prints;2003;2021;8
 Paul P.;Canadian;male;1977;0;47;27;1;0;0;27;0;0;0;0;0;Drawings & Prints;2002;2003;2
+Juan Baixas;Chilean;male;1942;0;82;72;1;72;0;0;0;0;0;0;0;Architecture & Design;1975;1980;2
 Peter Stauss;German;male;1966;0;58;30;1;0;0;30;0;0;0;0;0;Drawings & Prints;2001;2002;2
 Cheyney Thompson;American;male;1975;0;49;20;2;0;0;19;1;0;0;0;0;Drawings & Prints;2000;2012;5
 Charline von Heyl;German;female;1960;0;64;29;2;0;0;28;1;0;0;0;0;Drawings & Prints;2003;2020;7
@@ -1281,35 +974,44 @@ Kelley Walker;American;male;1969;0;55;63;2;0;0;58;5;0;0;0;0;Drawings & Prints;20
 Christopher Williams;American;male;1956;0;68;35;2;0;0;24;0;0;11;0;0;Drawings & Prints;1989;2014;18
 Wade Guyton;American;male;1972;0;52;20;2;0;0;14;6;0;0;0;0;Drawings & Prints;2004;2020;11
 Chris Marker;French;male;1921;2012;91;26;2;0;0;1;0;25;0;0;0;Media and Performance;1985;2005;8
-Milan Knížák;Czech;male;1940;0;84;183;2;0;19;164;0;0;0;0;0;Drawings & Prints;1962;2005;29
+Gustav Klutsis;Latvian;male;1895;1938;43;75;4;31;0;41;1;0;2;0;0;Drawings & Prints;1919;1933;14
+Igor' Terent'ev;Russian;male;1892;1937;45;38;1;0;0;38;0;0;0;0;0;Drawings & Prints;1915;1933;8
+Ilia Zdanevich;Georgian;male;1894;1974;80;21;2;1;0;20;0;0;0;0;0;Drawings & Prints;1915;1948;7
+Vladimir Lebedev;Russian;male;1891;1967;76;71;2;2;0;69;0;0;0;0;0;Drawings & Prints;1918;1943;11
+Robert H. McNeill;American;male;1917;2005;88;23;1;0;0;0;0;0;23;0;0;Photography;1937;1941;4
+Aleksei Gan;Russian;male;1889;1942;53;22;2;4;0;18;0;0;0;0;0;Drawings & Prints;1920;1930;7
+David Horvitz;American;;1982;0;42;57;1;0;0;0;0;0;57;0;0;Photography;2012;2022;2
+Beatrice Trueblood;British;female;1938;0;86;28;1;28;0;0;0;0;0;0;0;Architecture & Design;1968;1968;1
 Fernando Martín Menis;Spanish;male;1951;0;73;33;1;33;0;0;0;0;0;0;0;Architecture & Design;2005;2005;1
-Álvaro Siza;Portuguese;male;1933;0;91;129;1;129;0;0;0;0;0;0;0;Architecture & Design;1974;2008;3
+Ivan Kliun;Russian;male;1878;1943;65;38;2;0;0;37;1;0;0;0;0;Drawings & Prints;1915;1934;11
 Stanley Brouwn;Dutch;male;1935;2017;82;37;1;0;0;37;0;0;0;0;0;Drawings & Prints;1960;1989;16
+Jorge Castillo;Venezuelan;male;1933;0;91;44;1;44;0;0;0;0;0;0;0;Architecture & Design;1972;1975;2
 Rudy VanderLans;Dutch;male;1955;0;69;70;1;70;0;0;0;0;0;0;0;Architecture & Design;1984;2005;22
 Zuzana Licko;Slovak;female;1961;0;63;71;1;71;0;0;0;0;0;0;0;Architecture & Design;1984;2005;22
 Emigre Inc.;American;;1987;0;37;70;1;70;0;0;0;0;0;0;0;Architecture & Design;1984;2005;22
 Gert Tobias;German;male;1973;0;51;44;1;0;0;44;0;0;0;0;0;Drawings & Prints;1976;2011;5
 Uwe Tobias;German;male;1973;0;51;44;1;0;0;44;0;0;0;0;0;Drawings & Prints;1976;2011;5
 Fred W. McDarrah;American;male;1926;2007;81;47;1;0;0;47;0;0;0;0;0;Drawings & Prints;1959;2014;3
-Frédéric Bruly Bouabré;Ivorian;male;1923;2014;91;483;1;0;0;483;0;0;0;0;0;Drawings & Prints;1987;2008;15
+Peter Zumthor;Swiss;male;1943;0;81;38;1;38;0;0;0;0;0;0;0;Architecture & Design;1992;2009;3
 Harun Farocki;German;male;1944;2014;70;45;2;0;0;2;0;43;0;0;0;Media and Performance;1967;2010;27
 Sanja Iveković;Croatian;female;1949;0;75;20;3;0;0;1;0;15;4;0;0;Media and Performance;1974;2009;10
 Michael Rock;American;male;1959;0;65;24;2;23;0;1;0;0;0;0;0;Architecture & Design;1994;2005;11
 Susan Sellers;American;female;1967;0;57;24;2;23;0;1;0;0;0;0;0;Architecture & Design;1994;2005;11
 Allan Sekula;American;male;1951;2013;62;29;4;0;0;1;0;2;25;1;0;Photography;1972;2010;10
 Luis Buñuel;Spanish;male;1900;1983;83;20;1;0;0;0;0;0;0;20;0;Film;1950;1977;17
-Unidentified;;;0;0;2024;51;2;3;0;48;0;0;0;0;0;Drawings & Prints;1895;1976;13
-Kayrock and Wolfy;American;male;0;0;2024;25;1;0;0;25;0;0;0;0;0;Drawings & Prints;2004;2007;4
-Unidentified Director;;;0;0;2024;26;1;0;0;0;0;0;0;26;0;Film;1912;1914;4
+Mirko Ilić;American;male;1956;0;68;37;1;37;0;0;0;0;0;0;0;Architecture & Design;1977;1985;9
+Sou Fujimoto;Japanese;male;1971;0;53;74;1;74;0;0;0;0;0;0;0;Architecture & Design;2011;2015;2
 Ant Farm;American;;1968;0;56;23;2;4;0;0;0;19;0;0;0;Media and Performance;1970;2003;6
 Ximena Cuevas;Mexican;female;1963;0;61;24;1;0;0;0;0;24;0;0;0;Media and Performance;1983;2005;11
 Jean-Luc Godard;French;male;1930;2022;92;48;2;0;0;0;0;44;0;4;0;Media and Performance;1963;1999;15
 Anne-Marie Miéville;Swiss;female;1945;0;79;30;1;0;0;0;0;30;0;0;0;Media and Performance;1976;1999;5
-Faith Hubley;American;female;1924;2001;77;104;1;0;0;0;0;0;0;104;0;Film;1957;1973;4
+Matt Keegan;American;male;1976;0;48;52;2;0;0;1;0;0;51;0;0;Photography;2009;2016;2
+Juan Uslé;Spanish;male;1954;0;70;21;1;0;0;21;0;0;0;0;0;Drawings & Prints;2000;2009;2
 Steina;Icelandic;female;1940;0;84;29;1;0;0;0;0;29;0;0;0;Media and Performance;1970;2000;15
 Woody Vasulka;American;male;1937;2019;82;23;1;0;0;0;0;23;0;0;0;Media and Performance;1972;1989;8
 Experimental Jetset;Dutch;;1997;0;27;41;1;41;0;0;0;0;0;0;0;Architecture & Design;1998;2007;10
 Olav Christopher Jenssen;Norwegian;male;1954;0;70;48;1;0;0;48;0;0;0;0;0;Drawings & Prints;2002;2006;2
 Rolf Harder;Canadian;male;1929;2013;84;60;1;60;0;0;0;0;0;0;0;Architecture & Design;1960;2003;28
 Rolf Harder & Associates Inc.;;;1978;0;46;31;1;31;0;0;0;0;0;0;0;Architecture & Design;1973;2003;17
+Eric Owen Moss;American;male;1943;0;81;22;1;22;0;0;0;0;0;0;0;Architecture & Design;1976;1980;3
 Chip Lord;American;male;1944;0;80;33;2;4;0;0;0;29;0;0;0;Media and Performance;1970;2003;13
