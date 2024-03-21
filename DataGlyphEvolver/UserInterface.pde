@@ -99,42 +99,113 @@ void drawInterface() {
     for (int i = 0; i < pop.getSize(); i++) {
       for (int g = 0; g < numGlyphs; g++) {
         if (areasGlyphs[i][g].contains(mouseX, mouseY)) {
-          textAlign(LEFT, TOP);
-          textSize(13);
-          textLeading(getGraphics().textSize * 1.4);
-
-          ArrayList<String> textLines = pop.getIndividual(i).getRelationsInfo(selectedDataRows.get(g));
-          String text = "";
-          float textW = 0;
-          for (String line : textLines) {
-            textW = max(textW, textWidth(line));
-            text += line + "\n";
+          PImage relationsFigure = getRelationsOverview(pop.getIndividual(i), selectedDataRows.get(g));
+          Area relationsFigureArea = new Area(mouseX, mouseY, relationsFigure.width, relationsFigure.height);
+          if (relationsFigureArea.getRight() > width) {
+            relationsFigureArea.x = mouseX - relationsFigureArea.w;
           }
-          float textH = getGraphics().textLeading * (textLines.size() - 0.333);
-          float textMargin = getGraphics().textLeading;
-
-          Area popupArea = new Area(mouseX, mouseY, textW + textMargin * 2, textH + textMargin * 2);
-          if (popupArea.getRight() > width) {
-            popupArea.x = mouseX - popupArea.w;
+          if (relationsFigureArea.getBottom() > height) {
+            relationsFigureArea.y = mouseY - relationsFigureArea.h;
           }
-          if (popupArea.getBottom() > height) {
-            popupArea.y = mouseY - popupArea.h;
-          }
-
-          push();
+          image(relationsFigure, relationsFigureArea.x, relationsFigureArea.y);
+          noFill();
           strokeWeight(1);
           stroke(200);
-          fill(255);
-          rect(popupArea.x, popupArea.y, popupArea.w, popupArea.h);
-          fill(32);
-          text(text, popupArea.x + textMargin, popupArea.y + textMargin);
-          pop();
-
+          rect(relationsFigureArea.x, relationsFigureArea.y, relationsFigureArea.w, relationsFigureArea.h);
+          
           break myNestedLoop;
         }
       }
     }
   }
+}
+
+
+PImage getRelationsOverview(Individual indiv, Integer indexExampleDataRow) {
+  float margin = 10;
+  float textSize = 13;
+  float textLeading = 15;
+  float linesSpaceW = 40;
+  float spaceBelowValue = textLeading * 0.4;
+  float spacePoint = 8;
+
+  pushStyle();
+  textSize(textSize);
+  
+  ArrayList<PVector> anchorsLeft = new ArrayList<PVector>();
+  ArrayList<PVector> anchorsRight = new ArrayList<PVector>();
+  ArrayList<String> dataNames = new ArrayList<String>();
+  ArrayList<String> dataValues = new ArrayList<String>();
+  ArrayList<String> glyphAttrs = new ArrayList<String>();
+  for (int i = 0; i < indiv.genes.length; i++) {
+    Integer gene = indiv.genes[i];
+    if (gene != null) {
+      if (!dataNames.contains(indiv.data.columsNames[gene])) {
+        dataNames.add(indiv.data.columsNames[gene]);
+        dataValues.add(indiv.data.getValue(indexExampleDataRow, gene));
+      }
+      glyphAttrs.add(indiv.glyph.attrsNames[i]);
+    }
+  }
+
+  float colLeftW = 0;
+  for (int i = 0; i < dataNames.size(); i++) {
+    colLeftW = max(colLeftW, textWidth(dataNames.get(i)), textWidth(dataValues.get(i)));
+  }
+  float colRightW = 0;
+  for (int i = 0; i < glyphAttrs.size(); i++) {
+    colRightW = max(colRightW, textWidth(glyphAttrs.get(i)));
+  }
+
+  for (int i = 0; i < dataNames.size(); i++) {
+    anchorsLeft.add(new PVector(margin + colLeftW + spacePoint, margin + textLeading * 0.5 + (i + 0.2) * (textLeading * 2 + spaceBelowValue)));
+  }
+  for (int i = 0; i < glyphAttrs.size(); i++) {
+    anchorsRight.add(new PVector(margin + colLeftW + linesSpaceW, margin + textLeading * 0.5 + i * (textLeading + spaceBelowValue)));
+  }
+
+  int imageW = round(anchorsRight.get(0).x + spacePoint + colRightW + margin);
+  int imageH = round(max(anchorsLeft.get(anchorsLeft.size() - 1).y, anchorsRight.get(anchorsRight.size() - 1).y) + textLeading + margin);
+  PGraphics pg = createGraphics(imageW, imageH);
+  pg.beginDraw();
+  pg.background(255);
+
+  pg.textAlign(RIGHT, CENTER);
+  for (int i = 0; i < dataNames.size(); i++) {
+    pg.fill(128);
+    pg.text(dataNames.get(i), anchorsLeft.get(i).x - spacePoint, anchorsLeft.get(i).y - textLeading * 0.5);
+    pg.fill(32);
+    pg.text(dataValues.get(i), anchorsLeft.get(i).x - spacePoint, anchorsLeft.get(i).y + textLeading * 0.5);
+  }
+  pg.textAlign(LEFT, CENTER);
+  for (int i = 0; i < glyphAttrs.size(); i++) {
+    pg.fill(32);
+    pg.text(glyphAttrs.get(i), anchorsRight.get(i).x + spacePoint, anchorsRight.get(i).y);
+  }
+
+  pg.stroke(64);
+  pg.strokeWeight(4);
+  for (PVector p : anchorsLeft) {
+    pg.point(p.x, p.y);
+  }
+  for (PVector p : anchorsRight) {
+    pg.point(p.x, p.y);
+  }
+
+  pg.strokeWeight(1.5);
+  for (int i = 0; i < indiv.genes.length; i++) {
+    Integer gene = indiv.genes[i];
+    if (gene != null) {
+      PVector p1 = anchorsRight.get(glyphAttrs.indexOf(indiv.glyph.attrsNames[i]));
+      PVector p2 = anchorsLeft.get(dataNames.indexOf(indiv.data.columsNames[gene]));
+      pg.line(p1.x, p1.y, p2.x, p2.y);
+    }
+  }
+
+  pg.endDraw();
+  popStyle();
+
+  return pg;
 }
 
 

@@ -75,6 +75,7 @@ class GlyphModel {
     pg.push();
     pg.translate(x, y);
     pg.strokeWeight(1);
+    pg.strokeCap(SQUARE);
 
     // Fundo
     pg.noStroke();
