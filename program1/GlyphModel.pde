@@ -72,11 +72,8 @@ class GlyphModel {
    * When an attribute value is null, a default graphic option is used.
    */
   void draw(PGraphics pg, float x, float y, float dim) {
-
-    pg.beginDraw();
     pg.push();
-    // TODO draw glyph here
-
+    pg.translate(x, y);
 
     // Fundo
     pg.noStroke();
@@ -166,11 +163,7 @@ class GlyphModel {
       pg.line(pos_x-size/2, pos_y+size/2, pos_x+size/2, pos_y-size/2);
     }
 
-    pg.strokeWeight(1);
     pg.pop();
-
-    pg.endDraw();
-    image(pg, x, y);
   }
 
   boolean has_params(HashMap<String, Float> vals, String attribute) {
