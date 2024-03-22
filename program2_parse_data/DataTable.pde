@@ -109,7 +109,11 @@ class DataTable {
         // Create row with normalised values
         for (int row = 0; row < getNumRows(); row++) {
           float currValue = (float) dataRows.get(row)[col];
-          dataRowsNormalised.get(row)[col] = map(currValue, minValue, maxValue, 0, 1);
+          if (minValue < maxValue) {
+            dataRowsNormalised.get(row)[col] = map(currValue, minValue, maxValue, 0, 1);
+          } else {
+            dataRowsNormalised.get(row)[col] = 0;
+          }
         }
       } else { // If current column contains text
 
@@ -169,6 +173,13 @@ class DataTable {
    */
   int getNumRows() {
     return dataRows.size();
+  }
+
+  /**
+   * Returns the name of a column.
+   */
+  String getColumnName(int col) {
+    return columsNames[col];
   }
 
   void saveToCSV(String pathOutputCSVFile) {
